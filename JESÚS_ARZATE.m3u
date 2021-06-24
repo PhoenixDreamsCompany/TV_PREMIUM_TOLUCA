@@ -12,10 +12,10 @@ https://14943.live.streamtheworld.com/XETFM_SC
 https://16693.live.streamtheworld.com/XHPAGFM_SC
 
 *** COLOMBIA ***
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Sport",Win Sports+
-http://saypopular.com:25461/oscar/20gar/52853
-#EXTINF:-1 tvg-id="RCNHD.co" tvg-name="RCN HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="",RCN HD
-http://saypopular.com:25461/oscar/20gar/52262
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports
+http://186.101.216.211:8000/play/a0cq
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Entertainment",Canal RCN
+http://186.101.216.211:8000/play/a09k
 #EXTINF:-1 tvg-id="108666" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="SenalColombiaHD.co" tvg-name="Senal Colombia HD" tvg-country="CO" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU" group-title="",Senal Colombia HD
