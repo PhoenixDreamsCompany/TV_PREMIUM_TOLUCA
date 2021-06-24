@@ -12,6 +12,8 @@ https://14943.live.streamtheworld.com/XETFM_SC
 https://16693.live.streamtheworld.com/XHPAGFM_SC
 
 *** COLOMBIA ***
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports +
+http://186.101.216.211:8000/play/g07j
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports
 http://186.101.216.211:8000/play/a0cq
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Entertainment",Canal RCN
