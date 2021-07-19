@@ -88,16 +88,10 @@ http://186.101.216.211:8000/play/a0cq
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports +
 http://186.101.216.211:8000/play/g07j
 
-#EXTM3U
+
 
 #EXTINF:-1, DREIKOTV CANAL 24/7
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-#EXTINF:0 tvg-logo="", Discovery ID
-http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-#EXTINF:0 tvg-logo="", RCN
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
-#EXTINF:0 tvg-logo="", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0 tvg-logo="", 93.3 FM
 https://14543.live.streamtheworld.com/XHQQ_FM_SC
 #EXTINF:0 tvg-logo="", 690 RG AM
