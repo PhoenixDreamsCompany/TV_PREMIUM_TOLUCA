@@ -1,566 +1,742 @@
 #EXTM3U
 
-*** NACIONALES ***
-#EXTINF:-1, ONCE NINOS (CLASES)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=3315&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZTECA 7.3 (CLASES)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=3316&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZTECA UNO HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=7&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZ CLIC HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=11&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, LAS ESTRELLAS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=17&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CANAL 5
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=20&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZTECA 7
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=21&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NU9VE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=24&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ONCE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=25&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZTECA UNO
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=27&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TELEFORMULA SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=32&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MEXIQUENSE TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=44&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZ CORAZON https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=70&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZ MUNDO
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=84&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZTECA 7 HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=317&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZTECA 7 HD (2)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=322&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, IMAGEN TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2298&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MULTIMEDIOS MTY
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2305&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, APREDNE TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=401&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MULTIMEDIOS CDMX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1253&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NU9VE HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1783&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, LAS ESTRELLAS HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1784&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CANAL 5 HD (2)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1785&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ONCE HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1942&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MVS TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2149&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TVC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2156&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CANAL 4
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2274&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CANAL 8
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2307&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TELEVISA PUEBLA
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2312&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, A+
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2316&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TVMAS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2324&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CANAL DEL CONGRESO
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2331&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MULTIMEDIOS CDMX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2352&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, IMAGEN TV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2606&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ACADEMIA
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2703&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MULTIMEDIOS HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2882&format=HLSAD&f=.m3u8
-
-
-
-
-
-
-
-*** INFANTILES ***
-#EXTINF:-1, TOONCAST
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=108&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISCOVERY KIDS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=109&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NICK
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=110&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISNEY XD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=111&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CARTOON NETWORK
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=112&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISNEY CHANNEL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=113&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, BOOMERANG
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=115&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, BABY TV https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=116&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NICK JR
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=117&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISNEY JR
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=118&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NICKTOONS SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1708&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, BABY FIRST
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1984&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NICK 2
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2147&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NAT GEO KIDS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2373&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, BIT ME
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2591&format=HLSAD&f=.m3u8
-
-
-
-*** CINE ***
-
-#EXTINF:-1, A3CINE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=3112&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TBS SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=81&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DE PELICULA +
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=121&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, GOLDEN +
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=122&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, GOLDEN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=123&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, GOLDEN EDGE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=124&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TNT
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=126&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TCM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=128&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, SPACE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=129&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AMC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=131&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, STUDIO UNIVERSAL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=132&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, I SAT
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=135&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, EUROPA CHANNEL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=136&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FILMS & ARTS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=137&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FXM https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=138&format=HLSAD&f=.m3u8
-#EXTINF:-1, FXM SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=332&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX SERIES
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=139&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MORBIDO
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=140&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX MOVIES
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=146&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CINECANAL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=149&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CINEMAX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=158&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AMC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=328&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DE PELICULA SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=335&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX ACTION
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=336&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, PARAMOUNT CHANNEL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1726&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX CINEMA SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1729&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX CLASSICS SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1732&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZ CINEMA
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1787&format=HLSAD&f=.m3u8
-
-
-
-*** ENTRETENIMIENTO ***
-#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=85&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=46&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, SONY
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=48&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, WARNER
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=52&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, E!
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=55&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, UNIVERSAL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=57&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, SYFY
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=59&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=60&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, A&E
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=62&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AXN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=64&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, UNICABLE SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=66&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, SUNDANCE TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=69&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TNT SERIES
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=71&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, GLITZ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=76&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, GOURMET
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=74&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX LIFE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=77&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISTRITO COMEDIA SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=78&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TRUTV https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=79&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TL NOVELAS SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=83&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, LIFETIME
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=94&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ANTENA 3
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=199&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=201&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, WARNER HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=205&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, UNIVERSAL HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=207&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FX HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=209&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TRUTV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=215&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, HOLA TV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=219&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, COMEDY CENTRAL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=340&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, COMEDY CENTRAL SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=341&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, UNICABLE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1499&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MAS CHIC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1842&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, A3SERIES
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2113&format=HLSAD&f=.m3u8
-
-*** DEPORTES ***
-
-#EXTINF:-1, ESPN +
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=167&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ESPN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=168&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ESPN 2
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=169&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX SPORTS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=170&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX SPORTS 2
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=172&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TUDN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=174&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX SPORTS 3
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=178&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, GOLF
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=179&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AYM SPORTS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=180&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ESPN 3
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=345&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TUDN HD (2)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1049&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ADRENALINA SPORTS HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1799&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, LAS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2089&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, HAVOC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2148&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TVC DEPORTES
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2157&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CLARO SPORTS HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2564&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FUEL TV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2587&format=HLSAD&f=.m3u8
-
-
-*** CULTURALES ***
-
-#EXTINF:-1, DISCOVERY ID
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2376&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, GARAGE TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=75&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISCOVERY CHANNEL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=86&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ANIMAL PLANET
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2378&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, HISTORY
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=89&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NAT GEO
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=91&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NAT GEO WILD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=92&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISCOVERY THEATER
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=95&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, H&H
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=96&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TLC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=97&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISCOVERY SCIENCE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=98&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISCOVERY CIVILIZATION
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=99&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISCOVERY WORLD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=101&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TVE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=198&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, SHOPPING
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1943&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOOD NETWORK
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2145&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, STAR TVE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2375&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DISCOVERY TURBO
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2379&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CURIOSITY STREAM
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2594&format=HLSAD&f=.m3u8
-
-
-
-*** MUSICA ***
-#EXTINF:-1, MTV LIVE
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=211&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MTV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=212&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MTV HITS SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=213&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, VH1 CLASSIC SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=214&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, VH1 SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=217&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TELEHIT URBANO SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=218&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, TELEHIT +
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=220&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, BANDAMAX SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=221&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AZ CLIC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=223&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, VH1 HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=334&format=HLSAD&f=.m3u8
-
-
-
-*** NOTICIAS ***
-#EXTINF:-1, FOROTV HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=4&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOROTV SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=19&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ADN40
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=40&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, ADN 40 HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=184&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CNN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=185&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CNN SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=186&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, CNN Ñ SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=187&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, WOBI
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=102&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FOX NEWS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=188&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, BLOOMBERG
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=190&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, BBC SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=191&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, AL JAAZERA
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=192&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, NTN 24
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=194&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, JUSTICIA TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=196&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, HLN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=197&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, DW
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=203&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, RT
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=999&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MILENIO HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1250&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, MILENIO SD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1252&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, EXCELSIOR TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1449&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, EL FINANCIERO HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=1649&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, RT ESPAÑOL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2091&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, FRANCE 24
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=7nx4znu174w2c03&lchId=2402&format=HLSAD&f=.m3u8
-
-
-
+***NACIONALES***
+
+
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | CANAL 4
+http://odenfull.co:2086/142536/142536/1328
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | CANAL 8
+http://odenfull.co:2086/142536/142536/1330
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | CANAL DE LAS ESTRELLAS HD
+http://odenfull.co:2086/142536/142536/1331
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | DISTRITO COMEDIA
+http://odenfull.co:2086/142536/142536/1353
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | TELENOVELAS
+http://odenfull.co:2086/142536/142536/1428
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AZTECA  1
+http://odenfull.co:2086/142536/142536/1431
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | CANAL DE LAS ESTRELLAS
+http://odenfull.co:2086/142536/142536/1804
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AZTECA CINEMA
+http://odenfull.co:2086/142536/142536/2167
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | CANAL 5
+http://odenfull.co:2086/142536/142536/2481
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AZTECA  1
+http://odenfull.co:2086/142536/142536/2482
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | CANAL 8
+http://odenfull.co:2086/142536/142536/2485
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | CANAL 4
+http://odenfull.co:2086/142536/142536/2488
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | ADN 40
+http://odenfull.co:2086/142536/142536/2490
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AZTECA MUNDO
+http://odenfull.co:2086/142536/142536/2491
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AZTECA CORAZON
+http://odenfull.co:2086/142536/142536/2497
+
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | IMAGENTV HD
+http://odenfull.co:2086/142536/142536/5377
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | CANAL 5 HD
+http://odenfull.co:2086/142536/142536/5378
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | ESTRELLA TV HD
+http://odenfull.co:2086/142536/142536/16272
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AZTECA 7 HD
+http://odenfull.co:2086/142536/142536/22303
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | DISTRITO COMEDIA
+http://odenfull.co:2086/142536/142536/22310
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AZTECA 7
+http://odenfull.co:2086/142536/142536/31576
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | ONCE
+http://odenfull.co:2086/142536/142536/31584
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | GALAVISION HD
+http://odenfull.co:2086/142536/142536/31883
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | UNIMAS HD
+http://odenfull.co:2086/142536/142536/31904
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | BITME HD
+http://odenfull.co:2086/142536/142536/47197
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | BITME HD
+http://odenfull.co:2086/142536/142536/47198
+
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | FORO TV
+http://odenfull.co:2086/142536/142536/58034
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | FORO TV HD
+http://odenfull.co:2086/142536/142536/63397
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | TELEVISA PUEBLA
+http://odenfull.co:2086/142536/142536/203254
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | TELEVISA
+http://odenfull.co:2086/142536/142536/31668
+
+
+***DEPORTES***
+
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AFIZZIONADOS
+http://odenfull.co:2086/142536/142536/58029
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | TUDN
+http://odenfull.co:2086/142536/142536/203087
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | TVC DEPORTES
+http://odenfull.co:2086/142536/142536/121593
+#EXTINF:-1  group-title="NACIONALES",Phoenix´DreamsTV | AYM SPORT
+http://odenfull.co:2086/142536/142536/121595
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 1 (COL)
+http://odenfull.co:2086/142536/142536/135256
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 1 (COL)
+http://odenfull.co:2086/142536/142536/135257
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 2 (COL)
+http://odenfull.co:2086/142536/142536/135258
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 2 (COL)
+http://odenfull.co:2086/142536/142536/135259
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 3 (COL)
+http://odenfull.co:2086/142536/142536/135260
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 3 (COL)
+http://odenfull.co:2086/142536/142536/135261
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 1 (ARG)
+http://odenfull.co:2086/142536/142536/135263
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 1 (ARG)
+http://odenfull.co:2086/142536/142536/135264
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 2 (ARG)
+http://odenfull.co:2086/142536/142536/135265
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 2 (ARG)
+http://odenfull.co:2086/142536/142536/135266
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 3 (ARG)
+http://odenfull.co:2086/142536/142536/135267
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 3 (ARG)
+http://odenfull.co:2086/142536/142536/135268
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 1 (CHI)
+http://odenfull.co:2086/142536/142536/135269
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 1 (CHI)
+http://odenfull.co:2086/142536/142536/135270
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 2 (CHI)
+http://odenfull.co:2086/142536/142536/135271
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 2 (CHI)
+http://odenfull.co:2086/142536/142536/135273
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 3 (CHI)
+http://odenfull.co:2086/142536/142536/135274
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 3 (CHI)
+http://odenfull.co:2086/142536/142536/135275
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 1 (MEX)
+http://odenfull.co:2086/142536/142536/135276
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 1 (MEX)
+http://odenfull.co:2086/142536/142536/135277
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 2 (MEX)
+http://odenfull.co:2086/142536/142536/135278
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 2 (MEX)
+http://odenfull.co:2086/142536/142536/135279
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 3 (MEX)
+http://odenfull.co:2086/142536/142536/135280
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS 3 (MEX)
+http://odenfull.co:2086/142536/142536/135281
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS PREMIUM
+http://odenfull.co:2086/142536/142536/135282
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FOX SPORTS PREMIUM
+http://odenfull.co:2086/142536/142536/135283
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | TNT SPORTS
+http://odenfull.co:2086/142536/142536/135284
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | TNT SPORTS
+http://odenfull.co:2086/142536/142536/135285
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 1 (COL)
+http://odenfull.co:2086/142536/142536/135286
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 1 (COL)
+http://odenfull.co:2086/142536/142536/135287
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 2 (COL) 
+http://odenfull.co:2086/142536/142536/135289
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 2 (COL) 
+http://odenfull.co:2086/142536/142536/135290
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 3 (COL) 
+http://odenfull.co:2086/142536/142536/135291
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 3 (COL) 
+http://odenfull.co:2086/142536/142536/135292
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 1 (ARG) 
+http://odenfull.co:2086/142536/142536/135293
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 1 (ARG) 
+http://odenfull.co:2086/142536/142536/135294
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 1 col
+http://odenfull.co:2086/142536/142536/135295
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 2 (ARG) 
+http://odenfull.co:2086/142536/142536/135296
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 3 (ARG)
+http://odenfull.co:2086/142536/142536/135297
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 3 (ARG)
+http://odenfull.co:2086/142536/142536/135298
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 1 (MEX)
+http://odenfull.co:2086/142536/142536/135299
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 1 (MEX)
+http://odenfull.co:2086/142536/142536/135300
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 2 (MEX)
+http://odenfull.co:2086/142536/142536/135302
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 2 (MEX)
+http://odenfull.co:2086/142536/142536/135303
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 3 (MEX)
+http://odenfull.co:2086/142536/142536/135304
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN 3 (MEX)
+http://odenfull.co:2086/142536/142536/135305
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN EXTRA
+http://odenfull.co:2086/142536/142536/135306
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN EXTRA
+http://odenfull.co:2086/142536/142536/135307
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN DEPORTES
+http://odenfull.co:2086/142536/142536/135308
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN DEPORTES
+http://odenfull.co:2086/142536/142536/135309
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ESPN ACCN
+http://odenfull.co:2086/142536/142536/135310
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DIRECTV SPORTS 1 (COL)
+http://odenfull.co:2086/142536/142536/135311
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DIRECTV SPORTS 1 (COL)
+http://odenfull.co:2086/142536/142536/135312
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DIRECTV SPORTS 1 (ECU)
+http://odenfull.co:2086/142536/142536/135314
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DIRECTV SPORTS 2
+http://odenfull.co:2086/142536/142536/135315
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DIRECTV SPORTS 2
+http://odenfull.co:2086/142536/142536/135316
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DIRECTV SPORTS +
+http://odenfull.co:2086/142536/142536/135318
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR DEPORTES (PER)
+http://odenfull.co:2086/142536/142536/135319
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR DEPORTES (PER)
+http://odenfull.co:2086/142536/142536/135321
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR DEPORTES (ESP)
+http://odenfull.co:2086/142536/142536/135322
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR DEPORTES (ESP)
+http://odenfull.co:2086/142536/142536/135323
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR VAMOS
+http://odenfull.co:2086/142536/142536/135324
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR F\u00d3RMULA 1
+http://odenfull.co:2086/142536/142536/135326
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR F\u00d3RMULA 1
+http://odenfull.co:2086/142536/142536/135327
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR GOLF
+http://odenfull.co:2086/142536/142536/135328
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR GOLF
+http://odenfull.co:2086/142536/142536/135329
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR TOROS
+http://odenfull.co:2086/142536/142536/135330
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA DE CAMPEONES (OPC 1)
+http://odenfull.co:2086/142536/142536/135332
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA DE CAMPEONES (OPC 1)
+http://odenfull.co:2086/142536/142536/135333
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA DE CAMPEONES (OPC 2)
+http://odenfull.co:2086/142536/142536/135334
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA DE CAMPEONES (OPC 2)
+http://odenfull.co:2086/142536/142536/135335
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA (SOLO EVENTOS)
+http://odenfull.co:2086/142536/142536/135336
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA (OPC 1)
+http://odenfull.co:2086/142536/142536/135337
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA (OPC 2)
+http://odenfull.co:2086/142536/142536/135338
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA (OPC 2)
+http://odenfull.co:2086/142536/142536/135339
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA (OPC 3)
+http://odenfull.co:2086/142536/142536/135340
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA (OPC 3)
+http://odenfull.co:2086/142536/142536/135341
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR 4K
+http://odenfull.co:2086/142536/142536/135342
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA (OPC 4)
+http://odenfull.co:2086/142536/142536/135343
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA TV (OPC 5)
+http://odenfull.co:2086/142536/142536/135346
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOVISTAR LA LIGA (OPC 5)
+http://odenfull.co:2086/142536/142536/135347
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS \u00d1 (OPC 1)
+http://odenfull.co:2086/142536/142536/135348
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS \u00d1 (OPC 1)
+http://odenfull.co:2086/142536/142536/135349
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS \u00d1 (OPC 2)
+http://odenfull.co:2086/142536/142536/135351
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS \u00d1 (OPC 3)
+http://odenfull.co:2086/142536/142536/135352
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD USA
+http://odenfull.co:2086/142536/142536/135354
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD USA
+http://odenfull.co:2086/142536/142536/135355
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS XTRA
+http://odenfull.co:2086/142536/142536/135356
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD 1
+http://odenfull.co:2086/142536/142536/135357
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD 2
+http://odenfull.co:2086/142536/142536/135358
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD 3
+http://odenfull.co:2086/142536/142536/135359
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD 4
+http://odenfull.co:2086/142536/142536/135360
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD 5
+http://odenfull.co:2086/142536/142536/135361
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD 6
+http://odenfull.co:2086/142536/142536/135362
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD 7
+http://odenfull.co:2086/142536/142536/135363
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BEIN SPORTS HD 8
+http://odenfull.co:2086/142536/142536/135364
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | REAL MADRID (ESP)
+http://odenfull.co:2086/142536/142536/135365
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS 1
+http://odenfull.co:2086/142536/142536/135366
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS 2
+http://odenfull.co:2086/142536/142536/135367
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS PREMIER LEAGUE (OPC 1)
+http://odenfull.co:2086/142536/142536/135368
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS PREMIER LEAGUE (OPC 2)
+http://odenfull.co:2086/142536/142536/135369
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS FOOTBALL
+http://odenfull.co:2086/142536/142536/135370
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS MAIN EVENT
+http://odenfull.co:2086/142536/142536/135371
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS SERIE A
+http://odenfull.co:2086/142536/142536/135372
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS NBA
+http://odenfull.co:2086/142536/142536/135373
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS NEWS
+http://odenfull.co:2086/142536/142536/135374
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS ACTION
+http://odenfull.co:2086/142536/142536/135375
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS CRICKET
+http://odenfull.co:2086/142536/142536/135376
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS GOLF
+http://odenfull.co:2086/142536/142536/135378
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SKY SPORTS MOTO GP
+http://odenfull.co:2086/142536/142536/135379
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | PREMIER SPORTS 1 
+http://odenfull.co:2086/142536/142536/135380
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | GOL TV (ESP)
+http://odenfull.co:2086/142536/142536/135381
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | GOL TV LAT (OPC 1)
+http://odenfull.co:2086/142536/142536/135382
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | GOL TV LAT (OPC 2)
+http://odenfull.co:2086/142536/142536/135383
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | GOL TV (ENG)
+http://odenfull.co:2086/142536/142536/135384
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | EUROSPORTS 1 (OPC 1)
+http://odenfull.co:2086/142536/142536/135385
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | EUROSPORTS 1 (OPC 2)
+http://odenfull.co:2086/142536/142536/135386
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | EUROSPORTS 1 (OPC 3)
+http://odenfull.co:2086/142536/142536/135387
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | EUROSPORT 2 (OPC 1)
+http://odenfull.co:2086/142536/142536/135389
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | EUROSPORT 2 (OPC 2)
+http://odenfull.co:2086/142536/142536/135390
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | EUROSPORT 2 (OPC 3)
+http://odenfull.co:2086/142536/142536/135391
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | EUROSPORT 2 (OPC 4)
+http://odenfull.co:2086/142536/142536/135392
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | GOLF CHANNEL (USA)
+http://odenfull.co:2086/142536/142536/135393
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | GOLF CHANNEL (LAT)
+http://odenfull.co:2086/142536/142536/135394
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DIRECT GOLF
+http://odenfull.co:2086/142536/142536/135395
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MORE GOLF
+http://odenfull.co:2086/142536/142536/135396
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BT SPORT 1
+http://odenfull.co:2086/142536/142536/135397
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BT SPORT 2
+http://odenfull.co:2086/142536/142536/135398
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | BT SPORT 3
+http://odenfull.co:2086/142536/142536/135399
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FIGHT NETWORK
+http://odenfull.co:2086/142536/142536/135400
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FIGHTNET
+http://odenfull.co:2086/142536/142536/135401
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | TENNIS CHANNEL
+http://odenfull.co:2086/142536/142536/135402
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | SUPER TENNIS
+http://odenfull.co:2086/142536/142536/135403
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | CLARO SPORTS 1
+http://odenfull.co:2086/142536/142536/135405
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | CLARO SPORTS 2
+http://odenfull.co:2086/142536/142536/135406
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ELEVEN SPORTS 1
+http://odenfull.co:2086/142536/142536/135407
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ELEVEN SPORTS 2
+http://odenfull.co:2086/142536/142536/135408
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ELEVEN SPORTS 3
+http://odenfull.co:2086/142536/142536/135409
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | ELEVEN SPIRTS 5
+http://odenfull.co:2086/142536/142536/135411
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | OLYMPIC CHANNEL
+http://odenfull.co:2086/142536/142536/135413
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DAZN 1
+http://odenfull.co:2086/142536/142536/135414
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | DAZN 2
+http://odenfull.co:2086/142536/142536/135415
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FORMULA 1 TV
+http://odenfull.co:2086/142536/142536/147718
+#EXTINF:-1  group-title="DEPORTES",FORMULA 1,Phoenix´DreamsTV | ACCES VIP
+http://odenfull.co:2086/142536/142536/147719
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOTO GP
+http://odenfull.co:2086/142536/142536/181322
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV |MOTO GP solo eventos HD
+http://odenfull.co:2086/142536/142536/181323
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | FS1
+http://odenfull.co:2086/142536/142536/203229
+#EXTINF:-1  group-title="DEPORTES",Phoenix´DreamsTV | MOREMAX
+http://odenfull.co:2086/142536/142536/121597
+
+
+***STAR CHANNEL***
+
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR LIFE
+http://odenfull.co:2086/142536/142536/108729
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR LIFE
+http://odenfull.co:2086/142536/142536/108732
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR  CHANNEL
+http://odenfull.co:2086/142536/142536/108734
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR CHANNEL
+http://odenfull.co:2086/142536/142536/108735
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR ACTION
+http://odenfull.co:2086/142536/142536/108737
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR ACTION
+http://odenfull.co:2086/142536/142536/108742
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR HITS
+http://odenfull.co:2086/142536/142536/108750
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR HITS
+http://odenfull.co:2086/142536/142536/108751
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR FAMILY
+http://odenfull.co:2086/142536/142536/108752
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR FAMILY
+http://odenfull.co:2086/142536/142536/108753
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR COMEDY
+http://odenfull.co:2086/142536/142536/108754
+
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR CINEMA
+http://odenfull.co:2086/142536/142536/108756
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR CINEMA
+http://odenfull.co:2086/142536/142536/108757
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR CLASSICS
+http://odenfull.co:2086/142536/142536/108758
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR CLASSICS
+http://odenfull.co:2086/142536/142536/108759
+#EXTINF:-1  group-title="STAR CHANNEL",Phoenix´DreamsTV | STAR SERIES
+http://odenfull.co:2086/142536/142536/108760
+
+
+***GOLDEN***
+
+#EXTINF:-1  group-title="GOLDEN",Phoenix´DreamsTV |: GOLDEN
+http://odenfull.co:2086/142536/142536/108789
+#EXTINF:-1  group-title="GOLDEN",Phoenix´DreamsTV |: GOLDEN
+http://odenfull.co:2086/142536/142536/108790
+#EXTINF:-1  group-title="GOLDEN",Phoenix´DreamsTV |: GOLDEN PLUS
+http://odenfull.co:2086/142536/142536/108794
+#EXTINF:-1  group-title="GOLDEN",Phoenix´DreamsTV |: GOLDEN PLUS
+http://odenfull.co:2086/142536/142536/108795
+#EXTINF:-1  group-title="GOLDEN",Phoenix´DreamsTV |: GOLDEN EDGE
+http://odenfull.co:2086/142536/142536/108799
+
+
+
+
+***CINE***
+
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | TNT
+http://odenfull.co:2086/142536/142536/108807
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | TNT
+http://odenfull.co:2086/142536/142536/108808
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | TNT SERIES
+http://odenfull.co:2086/142536/142536/108829
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | TNT SERIES
+http://odenfull.co:2086/142536/142536/108830
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | SPACE WEST
+http://odenfull.co:2086/142536/142536/108832
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | SPACE EAST
+http://odenfull.co:2086/142536/142536/108837
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | WARNER
+http://odenfull.co:2086/142536/142536/109059
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | WARNER 1
+http://odenfull.co:2086/142536/142536/109060
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | UNIVERSAL CHANNEL 
+http://odenfull.co:2086/142536/142536/109063
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | UNIVERSAL CHANNEL 1
+http://odenfull.co:2086/142536/142536/109069
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | STUDIO UNIVERSAL
+http://odenfull.co:2086/142536/142536/109070
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | STUDIO UNIVERSAL
+http://odenfull.co:2086/142536/142536/109071
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK 1
+http://odenfull.co:2086/142536/142536/109072
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK 1
+http://odenfull.co:2086/142536/142536/109073
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK 2
+http://odenfull.co:2086/142536/142536/109074
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK 2
+http://odenfull.co:2086/142536/142536/109075
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | SONY
+http://odenfull.co:2086/142536/142536/31657
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | SONY CHANNEL 1
+http://odenfull.co:2086/142536/142536/109076
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | SONY CHANNEL 2
+http://odenfull.co:2086/142536/142536/109077
+
+
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | SYFY
+http://odenfull.co:2086/142536/142536/109208
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | SYFY
+http://odenfull.co:2086/142536/142536/109209
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | AXN
+http://odenfull.co:2086/142536/142536/109212
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | AXN
+http://odenfull.co:2086/142536/142536/109213
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | AMC EAST
+http://odenfull.co:2086/142536/142536/109218
+
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | AMC WEST
+http://odenfull.co:2086/142536/142536/109220
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | AMC WEST
+http://odenfull.co:2086/142536/142536/109221
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | DHE
+http://odenfull.co:2086/142536/142536/109425
+
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | TCM
+http://odenfull.co:2086/142536/142536/109427
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | TCM
+http://odenfull.co:2086/142536/142536/109428
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | ISAT
+http://odenfull.co:2086/142536/142536/109429
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | ISAT 1
+http://odenfull.co:2086/142536/142536/109430
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINELATINO
+http://odenfull.co:2086/142536/142536/109431
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | DE PELICULA
+http://odenfull.co:2086/142536/142536/109432
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | OUTERMAX
+http://odenfull.co:2086/142536/142536/121596
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | ACTIONMAX
+http://odenfull.co:2086/142536/142536/121598
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINEMAX (OPC 1)
+http://odenfull.co:2086/142536/142536/134191
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINEMAX (OPC 2)
+http://odenfull.co:2086/142536/142536/134192
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | FX
+http://odenfull.co:2086/142536/142536/108765
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | FX 1
+http://odenfull.co:2086/142536/142536/108766
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | FXM 
+http://odenfull.co:2086/142536/142536/108767
+
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINECANAL EAST
+http://odenfull.co:2086/142536/142536/108772
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINECANAL EAST 1
+http://odenfull.co:2086/142536/142536/108775
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINECANAL WEST
+http://odenfull.co:2086/142536/142536/108776
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINECANAL WEST 1
+http://odenfull.co:2086/142536/142536/108777
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINEMAX EAST
+http://odenfull.co:2086/142536/142536/108779
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINEMAX WEST
+http://odenfull.co:2086/142536/142536/108780
+
+
+***INFANTILES***
+
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | LOCOMOTION
+http://odenfull.co:2086/142536/142536/58035
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | PLAY KIDS
+http://odenfull.co:2086/142536/142536/58036
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | HEY KIDS
+http://odenfull.co:2086/142536/142536/58037
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | KIDS TV
+http://odenfull.co:2086/142536/142536/58038
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | SAGAS INFANTILES
+http://odenfull.co:2086/142536/142536/58039
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | CINEMA DISNEY CLASICOS
+http://odenfull.co:2086/142536/142536/58040
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | CINEMA DISNEY PIXAR
+http://odenfull.co:2086/142536/142536/58042
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | CINEMA DISNEY
+http://odenfull.co:2086/142536/142536/58043
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | CARTOON NETWORK
+http://odenfull.co:2086/142536/142536/58046
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | CARTOON NETWORK 1
+http://odenfull.co:2086/142536/142536/58047
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | DISNEY CHANNEL
+http://odenfull.co:2086/142536/142536/58050
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | DISNEY CHANNEL 1
+http://odenfull.co:2086/142536/142536/58051
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | DISNEY XD
+http://odenfull.co:2086/142536/142536/58052
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | DISNEY XD 1
+http://odenfull.co:2086/142536/142536/58053
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | BOOMERANG
+http://odenfull.co:2086/142536/142536/58054
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | DISNEY JUNIOR
+http://odenfull.co:2086/142536/142536/58055
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | DISCOVERY KIDS
+http://odenfull.co:2086/142536/142536/58056
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | DISCOVERY KIDS 1
+http://odenfull.co:2086/142536/142536/58057
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | BOOMERANG 
+http://odenfull.co:2086/142536/142536/58058
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | BOOMERANG 1
+http://odenfull.co:2086/142536/142536/58059
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | NICKELODEON
+http://odenfull.co:2086/142536/142536/58060
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | NICKELODEON 1
+http://odenfull.co:2086/142536/142536/58062
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | NICK
+http://odenfull.co:2086/142536/142536/58063
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | NICK 1
+http://odenfull.co:2086/142536/142536/58065
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | NICK JR
+http://odenfull.co:2086/142536/142536/58066
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | NICK JR 1
+http://odenfull.co:2086/142536/142536/58067
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | BABY TV
+http://odenfull.co:2086/142536/142536/58068
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | BABY TV 1
+http://odenfull.co:2086/142536/142536/91827
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | BABY FIRST
+http://odenfull.co:2086/142536/142536/91828
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | TOONCAST
+http://odenfull.co:2086/142536/142536/91831
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | TOONCAST 1
+http://odenfull.co:2086/142536/142536/121591
+#EXTINF:-1  group-title="INFANTILES",Phoenix´DreamsTV | NAT GEO KIDS
+http://odenfull.co:2086/142536/142536/125969
+
+
+
+***MUSICA***
+
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | MTV HITS
+http://odenfull.co:2086/142536/142536/1398
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | TELEHIT URBANO
+http://odenfull.co:2086/142536/142536/1413
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | TELEHIT PLUS
+http://odenfull.co:2086/142536/142536/1427
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | MTV CLASSIC
+http://odenfull.co:2086/142536/142536/1444
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | VH1 HD
+http://odenfull.co:2086/142536/142536/1445
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | MUCH MUSIC
+http://odenfull.co:2086/142536/142536/2551
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | BANDAMAX
+http://odenfull.co:2086/142536/142536/22316
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | HTV 
+http://odenfull.co:2086/142536/142536/24814
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | RITMOSON
+http://odenfull.co:2086/142536/142536/31888
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | TELEHIT PLUS
+http://odenfull.co:2086/142536/142536/31889
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | RETRO MUSIC TV
+http://odenfull.co:2086/142536/142536/36249
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | VIRGIN RADIO
+http://odenfull.co:2086/142536/142536/38482
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | VH1 USA
+http://odenfull.co:2086/142536/142536/40023
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | VH1 
+http://odenfull.co:2086/142536/142536/40024
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | BET JAMS
+http://odenfull.co:2086/142536/142536/53960
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | RETRO PLUS
+http://odenfull.co:2086/142536/142536/56525
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | SURAM TV
+http://odenfull.co:2086/142536/142536/108454
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | TROPICAL
+http://odenfull.co:2086/142536/142536/121715
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | ROCK
+http://odenfull.co:2086/142536/142536/135050
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | RAP
+http://odenfull.co:2086/142536/142536/181648
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | TOP 100
+http://odenfull.co:2086/142536/142536/181649
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | MTV BASE
+http://odenfull.co:2086/142536/142536/188784
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV |TELERITMO
+http://odenfull.co:2086/142536/142536/203105
+#EXTINF:-1  group-title="MUSICA",Phoenix´DreamsTV | i CLASSIC
+http://odenfull.co:2086/142536/142536/31633
+
+
+***ENTRETENIMIENTO***
+
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | HISTORY 
+http://odenfull.co:2086/142536/142536/101646
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | UNIVERSAL CHANNEL
+http://odenfull.co:2086/142536/142536/185586
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | A&E
+http://odenfull.co:2086/142536/142536/31563
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | AXN
+http://odenfull.co:2086/142536/142536/31567
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | BOOMERANG
+http://odenfull.co:2086/142536/142536/31581
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | COMEDY CENTRAL
+http://odenfull.co:2086/142536/142536/31596
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | DISCOVERY ID
+http://odenfull.co:2086/142536/142536/31600
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | DISCOVERY SCI
+http://odenfull.co:2086/142536/142536/31602
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | DISCOVERY TURBO
+http://odenfull.co:2086/142536/142536/31604
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | DISCOVERY WORLD
+http://odenfull.co:2086/142536/142536/31605
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | FILM & ART
+http://odenfull.co:2086/142536/142536/31613
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | FOOD NETWORK
+http://odenfull.co:2086/142536/142536/31614
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | STAR CHANNEL MX
+http://odenfull.co:2086/142536/142536/31616
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | STAR CHANNEL ARG
+http://odenfull.co:2086/142536/142536/31618
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | FOX LIFE
+http://odenfull.co:2086/142536/142536/31621
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | FXM
+http://odenfull.co:2086/142536/142536/31625
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | GOLF CH
+http://odenfull.co:2086/142536/142536/31629
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | HOLA TV
+http://odenfull.co:2086/142536/142536/31632
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | I SAT
+http://odenfull.co:2086/142536/142536/31634
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | NAT GEO
+http://odenfull.co:2086/142536/142536/31644
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | PARAMOUNT
+http://odenfull.co:2086/142536/142536/31652
+
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | STUDIO UNIVERSAL
+http://odenfull.co:2086/142536/142536/31660
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | SYFY
+http://odenfull.co:2086/142536/142536/31662
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TBS
+http://odenfull.co:2086/142536/142536/31663
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TCM
+http://odenfull.co:2086/142536/142536/31664
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | NTN24
+http://odenfull.co:2086/142536/142536/31651
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TLC
+http://odenfull.co:2086/142536/142536/31671
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TV MAS
+http://odenfull.co:2086/142536/142536/31676
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TVE
+http://odenfull.co:2086/142536/142536/31680
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | WARNER CH
+http://odenfull.co:2086/142536/142536/31684
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | SPACE
+http://odenfull.co:2086/142536/142536/62322
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TELEMUNDO MIAMI
+http://odenfull.co:2086/142536/142536/62335
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TNT
+http://odenfull.co:2086/142536/142536/64880
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | DIRECTV
+http://odenfull.co:2086/142536/142536/67087
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TELEMUNDO INTERNACIONAL
+http://odenfull.co:2086/142536/142536/76852
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | DW
+http://odenfull.co:2086/142536/142536/31609
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | HLN
+http://odenfull.co:2086/142536/142536/31631
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | MAS CHIC
+http://odenfull.co:2086/142536/142536/31639
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | MULTIMEDIOS
+http://odenfull.co:2086/142536/142536/31642
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | MULTIMEDIOS P.
+http://odenfull.co:2086/142536/142536/31643
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TVC
+http://odenfull.co:2086/142536/142536/31678
+#EXTINF:-1  group-title="ENTRETENIMIENTO",Phoenix´DreamsTV | TVCD
+http://odenfull.co:2086/142536/142536/31679
 
 
 *** COLOMBIA ***
