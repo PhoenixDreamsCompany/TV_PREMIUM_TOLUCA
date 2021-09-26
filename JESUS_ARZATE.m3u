@@ -451,9 +451,9 @@ http://odenfull.co:2086/142536/142536/109070
 http://odenfull.co:2086/142536/142536/109071
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK 1
 http://odenfull.co:2086/142536/142536/109072
-#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK 1
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK1
 http://odenfull.co:2086/142536/142536/109073
-#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK 2
+#EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK2
 http://odenfull.co:2086/142536/142536/109074
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | PARAMOUNT NETWORK 2
 http://odenfull.co:2086/142536/142536/109075
@@ -471,14 +471,12 @@ http://odenfull.co:2086/142536/142536/109212
 http://odenfull.co:2086/142536/142536/109213
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | AMC EAST
 http://odenfull.co:2086/142536/142536/109218
-
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | AMC WEST
 http://odenfull.co:2086/142536/142536/109220
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | AMC WEST
 http://odenfull.co:2086/142536/142536/109221
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | DHE
 http://odenfull.co:2086/142536/142536/109425
-
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | TCM
 http://odenfull.co:2086/142536/142536/109427
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | TCM
@@ -505,7 +503,6 @@ http://odenfull.co:2086/142536/142536/108765
 http://odenfull.co:2086/142536/142536/108766
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | FXM 
 http://odenfull.co:2086/142536/142536/108767
-
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINECANAL EAST
 http://odenfull.co:2086/142536/142536/108772
 #EXTINF:-1  group-title="CINE",Phoenix´DreamsTV | CINECANAL EAST 1
