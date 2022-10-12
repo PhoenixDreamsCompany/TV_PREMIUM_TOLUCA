@@ -1,952 +1,442 @@
 
 #EXTM3U
 
-***TEMPORALES***
-
-http://bgapp.live/play/14-400.php?c=1&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="HD" group-title="Lista 01", A&E
-http://bgapp.live/play/14-400.php?c=474&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" nada="Mexico" group-title="Lista 01", A+
-http://bgapp.live/play/14-400.php?c=406&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" nada="España" group-title="Lista 01", A3Series
-http://bgapp.live/play/14-400.php?c=444&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" nada="Noticias" group-title="Lista 01", ADN 40
-http://bgapp.live/play/14-400.php?c=447&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" nada="Deportes" group-title="Lista 01", Afizzionados
-http://bgapp.live/play/14-400.php?c=878&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" nada="24/7" group-title="Lista 01", Alf 24/7
-http://bgapp.live/play/14-400.php?c=426&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" nada="Entretenimiento" group-title="Lista 01", AMC
-http://bgapp.live/play/14-400.php?c=183&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" nada="HD" group-title="Lista 01", AMC
-http://bgapp.live/play/14-400.php?c=475&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" nada="Peru" group-title="Lista 01", America
-http://bgapp.live/play/14-400.php?c=780&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" nada="Cultura" group-title="Lista 01", Animal Planet
-http://bgapp.live/play/14-400.php?c=3&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" nada="HD" group-title="Lista 01", Animal Planet
-http://bgapp.live/play/14-400.php?c=633&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" nada="24/7" group-title="Lista 01", Animaniacs 24/7
-http://bgapp.live/play/14-400.php?c=677&g=.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" nada="España" group-title="Lista 01", Antena 3
-http://bgapp.live/play/14-400.php?c=298&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="Entretenimiento" group-title="Lista 01", AXN
-http://bgapp.live/play/14-400.php?c=146&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="Entretenimiento" group-title="Lista 01", AXN Sur
-http://bgapp.live/play/14-400.php?c=804&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="España" group-title="Lista 01", AXN (ES)
-http://bgapp.live/play/14-400.php?c=713&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="HD" group-title="Lista 01", AXN
-http://bgapp.live/play/14-400.php?c=476&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="España" group-title="Lista 01", AXN WHITE (ES)
-http://bgapp.live/play/14-400.php?c=714&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" nada="Deportes" group-title="Lista 01", AyM Sports
-http://bgapp.live/play/14-400.php?c=148&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" nada="Peliculas" group-title="Lista 01", Az Cinema
-http://bgapp.live/play/14-400.php?c=186&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" nada="Entretenimiento" group-title="Lista 01", Az Clic
-http://bgapp.live/play/14-400.php?c=165&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" nada="Entretenimiento" group-title="Lista 01", Az Corazón
-http://bgapp.live/play/14-400.php?c=166&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" nada="HD" group-title="Lista 01", Az Corazón
-http://bgapp.live/play/14-400.php?c=834&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" nada="Mexico" group-title="Lista 01", Azteca 1
-http://bgapp.live/play/14-400.php?c=4&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" nada="HD" group-title="Lista 01", Azteca 1
-http://bgapp.live/play/14-400.php?c=634&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" nada="Mexico" group-title="Lista 01", Azteca 7
-http://bgapp.live/play/14-400.php?c=5&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" nada="HD" group-title="Lista 01", Azteca 7
-http://bgapp.live/play/14-400.php?c=635&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" nada="Infantiles" group-title="Lista 01", Baby TV
-http://bgapp.live/play/14-400.php?c=7&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" nada="Musica" group-title="Lista 01", Bandamax
-http://bgapp.live/play/14-400.php?c=8&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" nada="HD" group-title="Lista 01", Bandamax
-http://bgapp.live/play/14-400.php?c=833&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", Barbie 24/7
-http://bgapp.live/play/14-400.php?c=788&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" nada="HD" group-title="Lista 01", Bein
-http://bgapp.live/play/14-400.php?c=763&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" nada="Deportes" group-title="Lista 01", BeinSports
-http://bgapp.live/play/14-400.php?c=753&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" nada="HD" group-title="Lista 01", BeinSports
-http://bgapp.live/play/14-400.php?c=9&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" nada="Deportes" group-title="Lista 01", BeinSports Ñ
-http://bgapp.live/play/14-400.php?c=761&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" nada="HD" group-title="Lista 01", BeinSports Ñ
-http://bgapp.live/play/14-400.php?c=376&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" nada="24/7" group-title="Lista 01", Bleach 24/7
-http://bgapp.live/play/14-400.php?c=883&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" nada="24/7" group-title="Lista 01", Bob Esponja 24/7
-http://bgapp.live/play/14-400.php?c=518&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" nada="Bolivia" group-title="Lista 01", Bolivision
-http://bgapp.live/play/14-400.php?c=783&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" nada="Entretenimiento" group-title="Lista 01", Breaking Bad 24/7
-http://bgapp.live/play/14-400.php?c=846&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", Brickleberry 24/7
-http://bgapp.live/play/14-400.php?c=789&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" nada="24/7" group-title="Lista 01", Caballeros del Zodiaco 24/7
-http://bgapp.live/play/14-400.php?c=427&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" nada="Nicaragua" group-title="Lista 01", Canal 2 Televicentro
-http://bgapp.live/play/14-400.php?c=211&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" nada="Mexico" group-title="Lista 01", Canal 5
-http://bgapp.live/play/14-400.php?c=14&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" nada="Honduras" group-title="Lista 01", Canal 5 Honduras
-http://bgapp.live/play/14-400.php?c=773&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" nada="Mexico" group-title="Lista 01", Canal de las Estrellas
-http://bgapp.live/play/14-400.php?c=411&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" nada="Mexico" group-title="Lista 01", Canal de las Estrellas Sur
-http://bgapp.live/play/14-400.php?c=736&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" nada="HD" group-title="Lista 01", Canal de las Estrellas
-http://bgapp.live/play/14-400.php?c=636&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" nada="Ecuador" group-title="Lista 01", Canal Del Futbol
-http://bgapp.live/play/14-400.php?c=892&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" nada="Mexico" group-title="Lista 01", Canal Once
-http://bgapp.live/play/14-400.php?c=15&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" nada="España" group-title="Lista 01", Canal+ Accion
-http://bgapp.live/play/14-400.php?c=364&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" nada="Deportes" group-title="Lista 01", Canal+ Toros
-http://bgapp.live/play/14-400.php?c=369&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="Entretenimiento" group-title="Lista 01", Candy Candy 24/7
-http://bgapp.live/play/14-400.php?c=808&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" nada="24/7" group-title="Lista 01", Cantinflas 24/7
-http://bgapp.live/play/14-400.php?c=428&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" nada="Musica" group-title="Lista 01", Capital TV
-http://bgapp.live/play/14-400.php?c=205&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" nada="Colombia" group-title="Lista 01", Caracol
-http://bgapp.live/play/14-400.php?c=391&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" nada="Entretenimiento" group-title="Lista 01", Caracol Internacional
-http://bgapp.live/play/14-400.php?c=290&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="Lista 01", Cartoon Network
-http://bgapp.live/play/14-400.php?c=17&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="Lista 01", Cartoon Network Sur
-http://bgapp.live/play/14-400.php?c=737&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="HD" group-title="Lista 01", Cartoon Network
-http://bgapp.live/play/14-400.php?c=637&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="Infantiles" group-title="Lista 01", Cartoonito (Boomerang)
-http://bgapp.live/play/14-400.php?c=11&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="HD" group-title="Lista 01", Cartoonito (Boomerang)
-http://bgapp.live/play/14-400.php?c=824&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" nada="Infantiles" group-title="Lista 01", Cartoonito Sur
-http://bgapp.live/play/14-400.php?c=735&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" nada="24/7" group-title="Lista 01", CatDog 24/7
-http://bgapp.live/play/14-400.php?c=785&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" nada="Infantiles" group-title="Lista 01", CBeebies
-http://bgapp.live/play/14-400.php?c=13&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" nada="Deportes" group-title="Lista 01", CDF Premium
-http://bgapp.live/play/14-400.php?c=318&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" nada="HD" group-title="Lista 01", CDF Premium
-http://bgapp.live/play/14-400.php?c=725&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" nada="Deportes" group-title="Lista 01", CDN Sportsmax
-http://bgapp.live/play/14-400.php?c=206&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" nada="Deportes" group-title="Lista 01", CDO
-http://bgapp.live/play/14-400.php?c=513&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" nada="Deportes" group-title="Lista 01", CDO Premium
-http://bgapp.live/play/14-400.php?c=401&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" nada="24/7" group-title="Lista 01", Chapulin Colorado 24/7
-http://bgapp.live/play/14-400.php?c=418&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" nada="24/7" group-title="Lista 01", Chespirito 24/7
-http://bgapp.live/play/14-400.php?c=417&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" nada="Colombia" group-title="Lista 01", CHV Chilevision
-http://bgapp.live/play/14-400.php?c=198&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" nada="Peliculas" group-title="Lista 01", Cine 2020
-http://bgapp.live/play/14-400.php?c=857&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Accion
-http://bgapp.live/play/14-400.php?c=699&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Accion
-http://bgapp.live/play/14-400.php?c=706&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Accion Sagas
-http://bgapp.live/play/14-400.php?c=700&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Accion Sagas
-http://bgapp.live/play/14-400.php?c=707&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Comedia 1
-http://bgapp.live/play/14-400.php?c=695&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Comedia 2
-http://bgapp.live/play/14-400.php?c=696&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Ficcion/Fantasia 1
-http://bgapp.live/play/14-400.php?c=709&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Ficcion/Fantasia 2
-http://bgapp.live/play/14-400.php?c=710&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Ficcion/Fantasia
-http://bgapp.live/play/14-400.php?c=712&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Ficcion/Fantasia Sagas
-http://bgapp.live/play/14-400.php?c=711&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Infantil
-http://bgapp.live/play/14-400.php?c=687&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Infantil
-http://bgapp.live/play/14-400.php?c=702&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Infantil Sagas
-http://bgapp.live/play/14-400.php?c=694&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Infantil Sagas
-http://bgapp.live/play/14-400.php?c=703&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" nada="Peliculas" group-title="Lista 01", Cine Latino
-http://bgapp.live/play/14-400.php?c=295&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Marvel
-http://bgapp.live/play/14-400.php?c=697&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Marvel
-http://bgapp.live/play/14-400.php?c=701&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Romance
-http://bgapp.live/play/14-400.php?c=689&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Romance
-http://bgapp.live/play/14-400.php?c=705&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Terror
-http://bgapp.live/play/14-400.php?c=693&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Terror
-http://bgapp.live/play/14-400.php?c=704&g=.m3u8
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Zombis
-http://bgapp.live/play/14-400.php?c=688&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="Peliculas" group-title="Lista 01", Cinecanal
-http://bgapp.live/play/14-400.php?c=18&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="Peliculas" group-title="Lista 01", Cinecanal Sur
-http://bgapp.live/play/14-400.php?c=738&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="HD" group-title="Lista 01", Cinecanal
-http://bgapp.live/play/14-400.php?c=479&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" nada="Peliculas" group-title="Lista 01", Cinemax
-http://bgapp.live/play/14-400.php?c=20&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" nada="Peliculas" group-title="Lista 01", Cinemax Sur
-http://bgapp.live/play/14-400.php?c=739&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" nada="HD" group-title="Lista 01", Cinemax
-http://bgapp.live/play/14-400.php?c=638&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" nada="Deportes" group-title="Lista 01", Claro Sports
-http://bgapp.live/play/14-400.php?c=328&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" nada="Noticias" group-title="Lista 01", CNN en Español
-http://bgapp.live/play/14-400.php?c=136&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" nada="Entretenimiento" group-title="Lista 01", Comedy Central
-http://bgapp.live/play/14-400.php?c=135&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" nada="Entretenimiento" group-title="Lista 01", Comedy Central Sur
-http://bgapp.live/play/14-400.php?c=740&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" nada="España" group-title="Lista 01", Comedy Central (ES)
-http://bgapp.live/play/14-400.php?c=719&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" nada="HD" group-title="Lista 01", Comedy Central
-http://bgapp.live/play/14-400.php?c=480&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" nada="24/7" group-title="Lista 01", Coraje el Perro Cobarde 24/7
-http://bgapp.live/play/14-400.php?c=519&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" nada="España" group-title="Lista 01", Crime Investigation (ES)
-http://bgapp.live/play/14-400.php?c=720&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Chile" group-title="Lista 01", CTNI
-http://bgapp.live/play/14-400.php?c=160&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" nada="Peliculas" group-title="Lista 01", De Película
-http://bgapp.live/play/14-400.php?c=21&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" nada="HD" group-title="Lista 01", De Pelicula
-http://bgapp.live/play/14-400.php?c=481&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" nada="Deportes" group-title="Lista 01", DeporTV
-http://bgapp.live/play/14-400.php?c=139&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" nada="Peliculas" group-title="Lista 01", DHE
-http://bgapp.live/play/14-400.php?c=844&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" nada="24/7" group-title="Lista 01", Dinosaurios 24/7
-http://bgapp.live/play/14-400.php?c=670&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" nada="Deportes" group-title="Lista 01", DirectTV Sports
-http://bgapp.live/play/14-400.php?c=259&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" nada="Deportes" group-title="Lista 01", DirectTV Sports 2
-http://bgapp.live/play/14-400.php?c=667&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" nada="HD" group-title="Lista 01", DirectTV Sports Peru
-http://bgapp.live/play/14-400.php?c=879&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="Cultura" group-title="Lista 01", Discovery Channel
-http://bgapp.live/play/14-400.php?c=22&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="Cultura" group-title="Lista 01", Discovery Channel Sur
-http://bgapp.live/play/14-400.php?c=741&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="HD" group-title="Lista 01", Discovery Channel
-http://bgapp.live/play/14-400.php?c=639&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" nada="Cultura" group-title="Lista 01", Discovery Civilization
-http://bgapp.live/play/14-400.php?c=23&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" nada="Cultura" group-title="Lista 01", Discovery H&H
-http://bgapp.live/play/14-400.php?c=24&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" nada="Cultura" group-title="Lista 01", Discovery H&H Sur
-http://bgapp.live/play/14-400.php?c=742&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" nada="HD" group-title="Lista 01", Discovery H&H
-http://bgapp.live/play/14-400.php?c=640&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="Infantiles" group-title="Lista 01", Discovery Kids
-http://bgapp.live/play/14-400.php?c=25&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="HD" group-title="Lista 01", Discovery Kids
-http://bgapp.live/play/14-400.php?c=641&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" nada="Cultura" group-title="Lista 01", Discovery SCI
-http://bgapp.live/play/14-400.php?c=26&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" nada="Cultura" group-title="Lista 01", Discovery Theater
-http://bgapp.live/play/14-400.php?c=27&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" nada="Cultura" group-title="Lista 01", Discovery Turbo
-http://bgapp.live/play/14-400.php?c=28&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" nada="HD" group-title="Lista 01", Discovery Turbo
-http://bgapp.live/play/14-400.php?c=727&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" nada="Cultura" group-title="Lista 01", Discovery World
-http://bgapp.live/play/14-400.php?c=187&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" nada="Infantiles" group-title="Lista 01", Disney Channel
-http://bgapp.live/play/14-400.php?c=29&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="Lista 01", Disney Junior
-http://bgapp.live/play/14-400.php?c=30&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="Lista 01", Disney Junior Sur
-http://bgapp.live/play/14-400.php?c=743&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="HD" group-title="Lista 01", Disney Junior
-http://bgapp.live/play/14-400.php?c=826&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" nada="Infantiles" group-title="Lista 01", Disney XD
-http://bgapp.live/play/14-400.php?c=31&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" nada="Infantiles" group-title="Lista 01", Disney XD Sur
-http://bgapp.live/play/14-400.php?c=744&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" nada="HD" group-title="Lista 01", Disney XD
-http://bgapp.live/play/14-400.php?c=827&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" nada="Entretenimiento" group-title="Lista 01", Distrito Comedia
-http://bgapp.live/play/14-400.php?c=32&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" nada="Musica" group-title="Lista 01", Djing Ibiza
-http://bgapp.live/play/14-400.php?c=277&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" nada="24/7" group-title="Lista 01", Doraemon 24/7
-http://bgapp.live/play/14-400.php?c=521&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" nada="24/7" group-title="Lista 01", Dragon Ball 24/7
-http://bgapp.live/play/14-400.php?c=425&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" nada="24/7" group-title="Lista 01", Dragon Ball GT 24/7
-http://bgapp.live/play/14-400.php?c=520&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" nada="24/7" group-title="Lista 01", Dragon Ball Super 24/7
-http://bgapp.live/play/14-400.php?c=424&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" nada="24/7" group-title="Lista 01", Dragon Ball Z 24/7
-http://bgapp.live/play/14-400.php?c=329&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" nada="Entretenimiento" group-title="Lista 01", E!
-http://bgapp.live/play/14-400.php?c=33&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" nada="HD" group-title="Lista 01", E!
-http://bgapp.live/play/14-400.php?c=483&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="Lista 01", Ecuavisa
-http://bgapp.live/play/14-400.php?c=319&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/efektotv.png" nada="Noticias" group-title="Lista 01", Efekto TV
-http://bgapp.live/play/14-400.php?c=275&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" nada="Argentina" group-title="Lista 01", El 13 Argentina
-http://bgapp.live/play/14-400.php?c=239&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" nada="24/7" group-title="Lista 01", El Chavo Animado 24/7
-http://bgapp.live/play/14-400.php?c=790&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" nada="24/7" group-title="Lista 01", El Chavo del 8 24/7
-http://bgapp.live/play/14-400.php?c=400&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" nada="24/7" group-title="Lista 01", El Coyote y el Correcaminos 24/7
-http://bgapp.live/play/14-400.php?c=429&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" nada="Entretenimiento" group-title="Lista 01", El Gallo Claudio 24/7
-http://bgapp.live/play/14-400.php?c=845&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" nada="Entretenimiento" group-title="Lista 01", El Gourmet
-http://bgapp.live/play/14-400.php?c=157&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" nada="24/7" group-title="Lista 01", El Increible Mundo de Gumball 24/7
-http://bgapp.live/play/14-400.php?c=791&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" nada="Argentina" group-title="Lista 01", El Nueve
-http://bgapp.live/play/14-400.php?c=772&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" nada="24/7" group-title="Lista 01", El Pajaro Loco 24/7
-http://bgapp.live/play/14-400.php?c=525&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" nada="24/7" group-title="Lista 01", El Principel del Rap 24/7
-http://bgapp.live/play/14-400.php?c=430&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" nada="Entretenimiento" group-title="Lista 01", El Señor de los Cielos 24/7
-http://bgapp.live/play/14-400.php?c=820&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="Lista 01", El Trece
-http://bgapp.live/play/14-400.php?c=765&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Argentina" group-title="Lista 01", El Trece
-http://bgapp.live/play/14-400.php?c=767&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Religion" group-title="Lista 01", Enlace Juvenil
-http://bgapp.live/play/14-400.php?c=162&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Religion" group-title="Lista 01", Enlace TV
-http://bgapp.live/play/14-400.php?c=161&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="Deportes" group-title="Lista 01", ESPN
-http://bgapp.live/play/14-400.php?c=34&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" nada="Deportes" group-title="Lista 01", ESPN 2
-http://bgapp.live/play/14-400.php?c=35&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" nada="HD" group-title="Lista 01", ESPN 2
-http://bgapp.live/play/14-400.php?c=484&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" nada="Deportes" group-title="Lista 01", ESPN 2 MX
-http://bgapp.live/play/14-400.php?c=531&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" nada="HD" group-title="Lista 01", ESPN 3
-http://bgapp.live/play/14-400.php?c=485&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="Deportes" group-title="Lista 01", ESPN Chile
-http://bgapp.live/play/14-400.php?c=842&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="HD" group-title="Lista 01", ESPN
-http://bgapp.live/play/14-400.php?c=486&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="Deportes" group-title="Lista 01", ESPN MX
-http://bgapp.live/play/14-400.php?c=530&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" nada="Deportes" group-title="Lista 01", ESPN Plus
-http://bgapp.live/play/14-400.php?c=37&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" nada="HD" group-title="Lista 01", ESPN Plus
-http://bgapp.live/play/14-400.php?c=487&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" nada="Entretenimiento" group-title="Lista 01", Estrella TV
-http://bgapp.live/play/14-400.php?c=177&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" nada="Deportes" group-title="Lista 01", Eurosport
-http://bgapp.live/play/14-400.php?c=39&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" nada="Religion" group-title="Lista 01", EWTN
-http://bgapp.live/play/14-400.php?c=38&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" nada="HD" group-title="Lista 01", Film & Arts
-http://bgapp.live/play/14-400.php?c=149&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" nada="HD" group-title="Lista 01", Film & Arts (EN)
-http://bgapp.live/play/14-400.php?c=729&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="Peliculas" group-title="Lista 01", FM Hot TV
-http://bgapp.live/play/14-400.php?c=731&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" nada="Deportes" group-title="Lista 01", Formula 1 TV (F1)
-http://bgapp.live/play/14-400.php?c=192&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" nada="Entretenimiento" group-title="Lista 01", Fox Sur
-http://bgapp.live/play/14-400.php?c=750&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" nada="Entretenimiento" group-title="Lista 01", Fox Life Sur
-http://bgapp.live/play/14-400.php?c=746&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports
-http://bgapp.live/play/14-400.php?c=52&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="Deportes" group-title="Lista 01", Fox Sports 2
-http://bgapp.live/play/14-400.php?c=53&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="HD" group-title="Lista 01", Fox Sports 2 Argentina
-http://bgapp.live/play/14-400.php?c=770&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="HD" group-title="Lista 01", Fox Sports 2
-http://bgapp.live/play/14-400.php?c=494&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="Deportes" group-title="Lista 01", Fox Sports 2 MX
-http://bgapp.live/play/14-400.php?c=528&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" nada="Deportes" group-title="Lista 01", Fox Sports 3
-http://bgapp.live/play/14-400.php?c=54&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" nada="HD" group-title="Lista 01", Fox Sports 3
-http://bgapp.live/play/14-400.php?c=839&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="HD" group-title="Lista 01", Fox Sports Argentina
-http://bgapp.live/play/14-400.php?c=769&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="HD" group-title="Lista 01", Fox Sports
-http://bgapp.live/play/14-400.php?c=493&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports MX
-http://bgapp.live/play/14-400.php?c=527&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports MX Sur
-http://bgapp.live/play/14-400.php?c=748&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" nada="Deportes" group-title="Lista 01", Fox Sports Premium
-http://bgapp.live/play/14-400.php?c=512&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" nada="HD" group-title="Lista 01", Fox Sports Premium
-http://bgapp.live/play/14-400.php?c=658&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports Sur
-http://bgapp.live/play/14-400.php?c=402&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="Deportes" group-title="Lista 01", Fox Sports Sur 2
-http://bgapp.live/play/14-400.php?c=410&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" nada="Deportes" group-title="Lista 01", Fox Sports Sur 3
-http://bgapp.live/play/14-400.php?c=511&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", Futurama 24/7
-http://bgapp.live/play/14-400.php?c=793&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="Lista 01", FX
-http://bgapp.live/play/14-400.php?c=42&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="Lista 01", FX Sur
-http://bgapp.live/play/14-400.php?c=749&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="HD" group-title="Lista 01", FX
-http://bgapp.live/play/14-400.php?c=495&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" nada="Peliculas" group-title="Lista 01", FXM
-http://bgapp.live/play/14-400.php?c=43&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" nada="HD" group-title="Lista 01", FXM
-http://bgapp.live/play/14-400.php?c=488&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" nada="Mexico" group-title="Lista 01", Gala TV
-http://bgapp.live/play/14-400.php?c=56&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" nada="HD" group-title="Lista 01", Gala TV
-http://bgapp.live/play/14-400.php?c=651&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" nada="Ecuador" group-title="Lista 01", Gamavision
-http://bgapp.live/play/14-400.php?c=891&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" nada="24/7" group-title="Lista 01", Game of Thrones 24/7
-http://bgapp.live/play/14-400.php?c=515&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="Entretenimiento" group-title="Lista 01", Garfield 24/7
-http://bgapp.live/play/14-400.php?c=812&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" nada="Entretenimiento" group-title="Lista 01", Glitz
-http://bgapp.live/play/14-400.php?c=158&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" nada="Deportes" group-title="Lista 01", Gol Peru
-http://bgapp.live/play/14-400.php?c=686&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" nada="Deportes" group-title="Lista 01", Gol TV
-http://bgapp.live/play/14-400.php?c=287&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" nada="HD" group-title="Lista 01", Gol TV
-http://bgapp.live/play/14-400.php?c=514&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="Peliculas" group-title="Lista 01", Golden
-http://bgapp.live/play/14-400.php?c=57&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" nada="Peliculas" group-title="Lista 01", Golden Edge
-http://bgapp.live/play/14-400.php?c=58&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="HD" group-title="Lista 01", Golden
-http://bgapp.live/play/14-400.php?c=496&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" nada="Cultura" group-title="Lista 01", H2
-http://bgapp.live/play/14-400.php?c=61&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" nada="Cultura" group-title="Lista 01", H2 Sur
-http://bgapp.live/play/14-400.php?c=760&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="Peliculas" group-title="Lista 01", HBO
-http://bgapp.live/play/14-400.php?c=62&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="Peliculas" group-title="Lista 01", HBO (EN)
-http://bgapp.live/play/14-400.php?c=723&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="Peliculas" group-title="Lista 01", HBO 2
-http://bgapp.live/play/14-400.php?c=300&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="Peliculas" group-title="Lista 01", HBO 2 (EN)
-http://bgapp.live/play/14-400.php?c=724&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="HD" group-title="Lista 01", HBO 2
-http://bgapp.live/play/14-400.php?c=732&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="HD" group-title="Lista 01", HBO 2 (EN)
-http://bgapp.live/play/14-400.php?c=733&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" nada="Peliculas" group-title="Lista 01", HBO Family
-http://bgapp.live/play/14-400.php?c=63&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="HD" group-title="Lista 01", HBO
-http://bgapp.live/play/14-400.php?c=654&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="Lista 01", HBO Plus
-http://bgapp.live/play/14-400.php?c=64&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="Lista 01", HBO Plus (EN)
-http://bgapp.live/play/14-400.php?c=722&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="HD" group-title="Lista 01", HBO Plus
-http://bgapp.live/play/14-400.php?c=655&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="HD" group-title="Lista 01", HBO Plus Oeste
-http://bgapp.live/play/14-400.php?c=728&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" nada="Peliculas" group-title="Lista 01", HBO Xtreme
-http://bgapp.live/play/14-400.php?c=814&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" nada="Peliculas" group-title="Lista 01", HBO Xtreme
-http://bgapp.live/play/14-400.php?c=841&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" nada="Honduras" group-title="Lista 01", HCH
-http://bgapp.live/play/14-400.php?c=779&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" nada="24/7" group-title="Lista 01", Hey Arnold 24/7
-http://bgapp.live/play/14-400.php?c=522&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" nada="España" group-title="Lista 01", Historia (ES)
-http://bgapp.live/play/14-400.php?c=718&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" nada="Cultura" group-title="Lista 01", History Channel
-http://bgapp.live/play/14-400.php?c=67&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" nada="HD" group-title="Lista 01", History Channel
-http://bgapp.live/play/14-400.php?c=642&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" nada="Musica" group-title="Lista 01", Hit TV
-http://bgapp.live/play/14-400.php?c=201&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" nada="Entretenimiento" group-title="Lista 01", Hola TV
-http://bgapp.live/play/14-400.php?c=189&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" nada="Musica" group-title="Lista 01", HTV
-http://bgapp.live/play/14-400.php?c=66&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" nada="Peliculas" group-title="Lista 01", I.Sat
-http://bgapp.live/play/14-400.php?c=153&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" nada="Mexico" group-title="Lista 01", Imagen Television
-http://bgapp.live/play/14-400.php?c=341&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" nada="HD" group-title="Lista 01", Imagen Televisión
-http://bgapp.live/play/14-400.php?c=643&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" nada="Cultura" group-title="Lista 01", Investigation Discovery
-http://bgapp.live/play/14-400.php?c=68&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" nada="HD" group-title="Lista 01", Investigation Discovery
-http://bgapp.live/play/14-400.php?c=825&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" nada="24/7" group-title="Lista 01", Johnny Bravo 24/7
-http://bgapp.live/play/14-400.php?c=786&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Juce TV
-http://bgapp.live/play/14-400.php?c=263&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", La Casa de Papel 24/7
-http://bgapp.live/play/14-400.php?c=403&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="Entretenimiento" group-title="Lista 01", La Familia PeLuche 24/7
-http://bgapp.live/play/14-400.php?c=811&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" nada="24/7" group-title="Lista 01", La Hora Pico 24/7
-http://bgapp.live/play/14-400.php?c=887&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" nada="24/7" group-title="Lista 01", La Pantera Rosa 24/7
-http://bgapp.live/play/14-400.php?c=671&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" nada="24/7" group-title="Lista 01", La Pequeña Lulu 24/7
-http://bgapp.live/play/14-400.php?c=792&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" nada="24/7" group-title="Lista 01", La Rosa de Guadalupe 24/7
-http://bgapp.live/play/14-400.php?c=886&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasfa.png" nada="España" group-title="Lista 01", La Sfa
-http://bgapp.live/play/14-400.php?c=326&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" nada="Entretenimiento" group-title="Lista 01", La Vaca y ElPollito 24/7
-http://bgapp.live/play/14-400.php?c=809&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" nada="Uruguay" group-title="Lista 01", Latina TV
-http://bgapp.live/play/14-400.php?c=782&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" nada="24/7" group-title="Lista 01", Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/14-400.php?c=888&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" nada="Entretenimiento" group-title="Lista 01", Lifetime
-http://bgapp.live/play/14-400.php?c=152&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" nada="Deportes" group-title="Lista 01", Liga de Campeones
-http://bgapp.live/play/14-400.php?c=890&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" nada="Deportes" group-title="Lista 01", Liga de Campeones 2
-http://bgapp.live/play/14-400.php?c=893&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" nada="24/7" group-title="Lista 01", Looney Tunes 24/7
-http://bgapp.live/play/14-400.php?c=524&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" nada="24/7" group-title="Lista 01", Los 3 Chiflados 24/7
-http://bgapp.live/play/14-400.php?c=423&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" nada="Entretenimiento" group-title="Lista 01", Los Años Maravillosos 24/7
-http://bgapp.live/play/14-400.php?c=810&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" nada="Entretenimiento" group-title="Lista 01", Los Padrinos Magicos 24/7
-http://bgapp.live/play/14-400.php?c=813&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" nada="24/7" group-title="Lista 01", Los Picapiedra 24/7
-http://bgapp.live/play/14-400.php?c=669&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" nada="24/7" group-title="Lista 01", Los Pinguinos de Madagascar 24/7
-http://bgapp.live/play/14-400.php?c=794&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" nada="24/7" group-title="Lista 01", Los Pitufos 24/7
-http://bgapp.live/play/14-400.php?c=795&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" nada="24/7" group-title="Lista 01", Los Reyes de la Colina 24/7
-http://bgapp.live/play/14-400.php?c=796&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" nada="24/7" group-title="Lista 01", Los Simpson 24/7
-http://bgapp.live/play/14-400.php?c=357&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" nada="24/7" group-title="Lista 01", Los Supersonicos 24/7
-http://bgapp.live/play/14-400.php?c=797&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" nada="Entretenimiento" group-title="Lista 01", Los Vengadores Unidos 24/7
-http://bgapp.live/play/14-400.php?c=818&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", m2o TV
-http://bgapp.live/play/14-400.php?c=203&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" nada="24/7" group-title="Lista 01", Malcolm 24/7
-http://bgapp.live/play/14-400.php?c=798&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" nada="Entretenimiento" group-title="Lista 01", Más chic
-http://bgapp.live/play/14-400.php?c=180&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="HD" group-title="Lista 01", Max Prime
-http://bgapp.live/play/14-400.php?c=730&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" nada="Entretenimiento" group-title="Lista 01", Max Steel 24/7
-http://bgapp.live/play/14-400.php?c=880&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="HD" group-title="Lista 01", Max Up
-http://bgapp.live/play/14-400.php?c=659&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Chile" group-title="Lista 01", Mega
-http://bgapp.live/play/14-400.php?c=766&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Puerto Rico" group-title="Lista 01", Mega
-http://bgapp.live/play/14-400.php?c=784&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="España" group-title="Lista 01", Mega (ES)
-http://bgapp.live/play/14-400.php?c=352&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peliculas" group-title="Lista 01", MegaCine
-http://bgapp.live/play/14-400.php?c=517&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png" nada="Musica" group-title="Lista 01", Mi Musica
-http://bgapp.live/play/14-400.php?c=172&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Entretenimiento" group-title="Lista 01", Miami TV
-http://bgapp.live/play/14-400.php?c=251&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" nada="Noticias" group-title="Lista 01", Milenio
-http://bgapp.live/play/14-400.php?c=140&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" nada="Deportes" group-title="Lista 01", MLB Network
-http://bgapp.live/play/14-400.php?c=293&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" nada="Peliculas" group-title="Lista 01", Movie Max
-http://bgapp.live/play/14-400.php?c=678&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" nada="España" group-title="Lista 01", Movistar Comedia
-http://bgapp.live/play/14-400.php?c=370&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" nada="Deportes" group-title="Lista 01", Movistar Deportes
-http://bgapp.live/play/14-400.php?c=366&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" nada="Deportes" group-title="Lista 01", Movistar Deportes 2
-http://bgapp.live/play/14-400.php?c=367&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" nada="España" group-title="Lista 01", Movistar Xtra
-http://bgapp.live/play/14-400.php?c=372&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" nada="24/7" group-title="Lista 01", Mr. Bean 24/7
-http://bgapp.live/play/14-400.php?c=431&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" nada="Entretenimiento" group-title="Lista 01", MTV
-http://bgapp.live/play/14-400.php?c=69&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" nada="España" group-title="Lista 01", MTV (ES)
-http://bgapp.live/play/14-400.php?c=803&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" nada="HD" group-title="Lista 01", MTV
-http://bgapp.live/play/14-400.php?c=828&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" nada="Musica" group-title="Lista 01", MTV Live
-http://bgapp.live/play/14-400.php?c=70&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" nada="Entretenimiento" group-title="Lista 01", MTV Sur
-http://bgapp.live/play/14-400.php?c=823&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" nada="Mexico" group-title="Lista 01", Multimedios
-http://bgapp.live/play/14-400.php?c=155&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" nada="Peliculas" group-title="Lista 01", MultiPremier
-http://bgapp.live/play/14-400.php?c=294&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Music Now
-http://bgapp.live/play/14-400.php?c=690&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" nada="Musica" group-title="Lista 01", MusicTop
-http://bgapp.live/play/14-400.php?c=691&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" nada="Noticias" group-title="Lista 01", MVS Noticias
-http://bgapp.live/play/14-400.php?c=448&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="24/7" group-title="Lista 01", Naruto 24/7
-http://bgapp.live/play/14-400.php?c=523&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" nada="Cultura" group-title="Lista 01", Nat Geo
-http://bgapp.live/play/14-400.php?c=76&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" nada="HD" group-title="Lista 01", Nat Geo
-http://bgapp.live/play/14-400.php?c=644&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" nada="Infantiles" group-title="Lista 01", Nat Geo Kids
-http://bgapp.live/play/14-400.php?c=412&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" nada="Cultura" group-title="Lista 01", Nat Geo Wild
-http://bgapp.live/play/14-400.php?c=77&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" nada="HD" group-title="Lista 01", Nat Geo Wild
-http://bgapp.live/play/14-400.php?c=497&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" nada="Deportes" group-title="Lista 01", NBA
-http://bgapp.live/play/14-400.php?c=838&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" nada="España" group-title="Lista 01", Neox (ES)
-http://bgapp.live/play/14-400.php?c=353&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" nada="Deportes" group-title="Lista 01", NFL Network
-http://bgapp.live/play/14-400.php?c=204&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" nada="Infantiles" group-title="Lista 01", Nick
-http://bgapp.live/play/14-400.php?c=78&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" nada="HD" group-title="Lista 01", Nick 2
-http://bgapp.live/play/14-400.php?c=646&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" nada="HD" group-title="Lista 01", Nick
-http://bgapp.live/play/14-400.php?c=645&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" nada="Infantiles" group-title="Lista 01", Nick JR
-http://bgapp.live/play/14-400.php?c=79&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" nada="HD" group-title="Lista 01", Nick JR
-http://bgapp.live/play/14-400.php?c=829&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" nada="Infantiles" group-title="Lista 01", Nick Toons
-http://bgapp.live/play/14-400.php?c=80&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" nada="Infantiles" group-title="Lista 01", Nickelodeon
-http://bgapp.live/play/14-400.php?c=184&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" nada="España" group-title="Lista 01", Nova (ES)
-http://bgapp.live/play/14-400.php?c=717&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" nada="24/7" group-title="Lista 01", One Punch Man 24/7
-http://bgapp.live/play/14-400.php?c=661&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Argentina" group-title="Lista 01", ORBE 21
-http://bgapp.live/play/14-400.php?c=242&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" nada="24/7" group-title="Lista 01", Padre de Familia 24/7
-http://bgapp.live/play/14-400.php?c=416&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" nada="Peliculas" group-title="Lista 01", Paramount
-http://bgapp.live/play/14-400.php?c=200&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" nada="HD" group-title="Lista 01", Paramount
-http://bgapp.live/play/14-400.php?c=647&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" nada="HD" group-title="Lista 01", Pasiones
-http://bgapp.live/play/14-400.php?c=755&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" nada="Entretenimiento" group-title="Lista 01", Patoaventuras 24/7
-http://bgapp.live/play/14-400.php?c=819&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" nada="Entretenimiento" group-title="Lista 01", Patrulla Canina 24/7
-http://bgapp.live/play/14-400.php?c=807&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" nada="24/7" group-title="Lista 01", Peppa Pig 24/7
-http://bgapp.live/play/14-400.php?c=787&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" nada="Peru" group-title="Lista 01", PERU: América TV
-http://bgapp.live/play/14-400.php?c=304&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: Antares TV
-http://bgapp.live/play/14-400.php?c=451&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: BHTV
-http://bgapp.live/play/14-400.php?c=399&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: La Luz
-http://bgapp.live/play/14-400.php?c=338&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" nada="Peru" group-title="Lista 01", PERU: Latina
-http://bgapp.live/play/14-400.php?c=317&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: Plus TV
-http://bgapp.live/play/14-400.php?c=337&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: RBC
-http://bgapp.live/play/14-400.php?c=220&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" nada="Peru" group-title="Lista 01", PERU: RPP
-http://bgapp.live/play/14-400.php?c=336&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: TV Peru
-http://bgapp.live/play/14-400.php?c=306&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: Willax TV
-http://bgapp.live/play/14-400.php?c=334&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" nada="24/7" group-title="Lista 01", Pinky y Cerebro 24/7
-http://bgapp.live/play/14-400.php?c=721&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" nada="24/7" group-title="Lista 01", Pocoyo 24/7
-http://bgapp.live/play/14-400.php?c=799&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" nada="24/7" group-title="Lista 01", Pokemon 24/7
-http://bgapp.live/play/14-400.php?c=420&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" nada="24/7" group-title="Lista 01", Prison Break 24/7
-http://bgapp.live/play/14-400.php?c=884&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" nada="Deportes" group-title="Lista 01", PX TV
-http://bgapp.live/play/14-400.php?c=193&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" nada="24/7" group-title="Lista 01", Ranma 1/2 24/7
-http://bgapp.live/play/14-400.php?c=419&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Mexico" group-title="Lista 01", RCG TV Coahuila
-http://bgapp.live/play/14-400.php?c=346&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" nada="Colombia" group-title="Lista 01", RCN
-http://bgapp.live/play/14-400.php?c=390&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" nada="Colombia" group-title="Lista 01", RCN Novelas
-http://bgapp.live/play/14-400.php?c=279&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Deportes" group-title="Lista 01", Real Madrid TV
-http://bgapp.live/play/14-400.php?c=270&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" nada="Musica" group-title="Lista 01", Retro Music
-http://bgapp.live/play/14-400.php?c=692&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" nada="Musica" group-title="Lista 01", Ritmoson Latino
-http://bgapp.live/play/14-400.php?c=154&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rt.png" nada="HD" group-title="Lista 01", RT
-http://bgapp.live/play/14-400.php?c=142&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" nada="Bolivia" group-title="Lista 01", RTP
-http://bgapp.live/play/14-400.php?c=781&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" nada="24/7" group-title="Lista 01", Sakura Card Captor 24/7
-http://bgapp.live/play/14-400.php?c=672&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" nada="24/7" group-title="Lista 01", Samurai X 24/7
-http://bgapp.live/play/14-400.php?c=663&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" nada="24/7" group-title="Lista 01", Scooby Doo 24/7
-http://bgapp.live/play/14-400.php?c=422&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" nada="Peliculas" group-title="Lista 01", Showtime
-http://bgapp.live/play/14-400.php?c=679&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" nada="24/7" group-title="Lista 01", Smallville 24/7
-http://bgapp.live/play/14-400.php?c=673&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" nada="Entretenimiento" group-title="Lista 01", Sony
-http://bgapp.live/play/14-400.php?c=145&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" nada="HD" group-title="Lista 01", Sony
-http://bgapp.live/play/14-400.php?c=498&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" nada="24/7" group-title="Lista 01", South Park 24/7
-http://bgapp.live/play/14-400.php?c=674&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="Lista 01", Space
-http://bgapp.live/play/14-400.php?c=83&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="Lista 01", Space Sur
-http://bgapp.live/play/14-400.php?c=751&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="HD" group-title="Lista 01", Space
-http://bgapp.live/play/14-400.php?c=499&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" nada="24/7" group-title="Lista 01", Spiderman 24/7
-http://bgapp.live/play/14-400.php?c=889&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" nada="Entretenimiento" group-title="Lista 01", Star
-http://bgapp.live/play/14-400.php?c=45&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" nada="Peliculas" group-title="Lista 01", Star Action
-http://bgapp.live/play/14-400.php?c=46&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" nada="HD" group-title="Lista 01", Star Action
-http://bgapp.live/play/14-400.php?c=490&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png" nada="Peliculas" group-title="Lista 01", Star Cinema
-http://bgapp.live/play/14-400.php?c=47&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_classics.png" nada="Peliculas" group-title="Lista 01", Star Classics
-http://bgapp.live/play/14-400.php?c=48&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_comedy.png" nada="Peliculas" group-title="Lista 01", Star Comedy
-http://bgapp.live/play/14-400.php?c=150&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" nada="Peliculas" group-title="Lista 01", Star Fun
-http://bgapp.live/play/14-400.php?c=49&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" nada="HD" group-title="Lista 01", Star Fun
-http://bgapp.live/play/14-400.php?c=840&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" nada="HD" group-title="Lista 01", Star
-http://bgapp.live/play/14-400.php?c=489&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" nada="Peliculas" group-title="Lista 01", Star Hits
-http://bgapp.live/play/14-400.php?c=51&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" nada="Peliculas" group-title="Lista 01", Star Hits Sur
-http://bgapp.live/play/14-400.php?c=747&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" nada="HD" group-title="Lista 01", Star Hits
-http://bgapp.live/play/14-400.php?c=491&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" nada="Entretenimiento" group-title="Lista 01", Star Life
-http://bgapp.live/play/14-400.php?c=50&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" nada="HD" group-title="Lista 01", Star Life
-http://bgapp.live/play/14-400.php?c=652&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" nada="Entretenimiento" group-title="Lista 01", Star Series
-http://bgapp.live/play/14-400.php?c=303&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" nada="Entretenimiento" group-title="Lista 01", Star Series Sur
-http://bgapp.live/play/14-400.php?c=745&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" nada="HD" group-title="Lista 01", Star Series
-http://bgapp.live/play/14-400.php?c=492&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" nada="Peliculas" group-title="Lista 01", Starz Cinema
-http://bgapp.live/play/14-400.php?c=680&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png" nada="Peliculas" group-title="Lista 01", Starz Comedy
-http://bgapp.live/play/14-400.php?c=681&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" nada="Peliculas" group-title="Lista 01", Starz Encore Action
-http://bgapp.live/play/14-400.php?c=682&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" nada="Peliculas" group-title="Lista 01", Starz Encore Black
-http://bgapp.live/play/14-400.php?c=683&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" nada="Peliculas" group-title="Lista 01", Starz Encore Family
-http://bgapp.live/play/14-400.php?c=684&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png" nada="HD" group-title="Lista 01", Starz
-http://bgapp.live/play/14-400.php?c=685&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" nada="Peliculas" group-title="Lista 01", Studio Universal
-http://bgapp.live/play/14-400.php?c=84&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" nada="HD" group-title="Lista 01", Studio Universal
-http://bgapp.live/play/14-400.php?c=830&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" nada="24/7" group-title="Lista 01", Super Campeones 24/7
-http://bgapp.live/play/14-400.php?c=432&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="Peliculas" group-title="Lista 01", SyFy
-http://bgapp.live/play/14-400.php?c=151&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="Peliculas" group-title="Lista 01", SyFy Sur
-http://bgapp.live/play/14-400.php?c=758&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="HD" group-title="Lista 01", SyFy
-http://bgapp.live/play/14-400.php?c=648&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" nada="Entretenimiento" group-title="Lista 01", TBS Very Funny
-http://bgapp.live/play/14-400.php?c=171&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" nada="HD" group-title="Lista 01", TBS Very Funny
-http://bgapp.live/play/14-400.php?c=831&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" nada="Entretenimiento" group-title="Lista 01", TC Ecuador
-http://bgapp.live/play/14-400.php?c=885&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" nada="Peliculas" group-title="Lista 01", TCM
-http://bgapp.live/play/14-400.php?c=85&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" nada="Infantiles" group-title="Lista 01", TeenNick
-http://bgapp.live/play/14-400.php?c=882&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Uruguay" group-title="Lista 01", Tele
-http://bgapp.live/play/14-400.php?c=778&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" nada="Ecuador" group-title="Lista 01", TeleAmazonas
-http://bgapp.live/play/14-400.php?c=320&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" nada="Argentina" group-title="Lista 01", Telefe
-http://bgapp.live/play/14-400.php?c=771&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png" nada="Entretenimiento" group-title="Lista 01", TeleFórmula
-http://bgapp.live/play/14-400.php?c=182&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" nada="Musica" group-title="Lista 01", Telehit
-http://bgapp.live/play/14-400.php?c=91&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" nada="HD" group-title="Lista 01", Telehit
-http://bgapp.live/play/14-400.php?c=649&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png" nada="Colombia" group-title="Lista 01", Telemedellin
-http://bgapp.live/play/14-400.php?c=197&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" nada="Entretenimiento" group-title="Lista 01", Telemundo
-http://bgapp.live/play/14-400.php?c=92&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" nada="HD" group-title="Lista 01", Telemundo
-http://bgapp.live/play/14-400.php?c=660&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" nada="Ecuador" group-title="Lista 01", Televicentro
-http://bgapp.live/play/14-400.php?c=776&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" nada="24/7" group-title="Lista 01", The Big Bang Theory 24/7
-http://bgapp.live/play/14-400.php?c=676&g=.m3u8
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", The Walking Dead 24/7
-http://bgapp.live/play/14-400.php?c=800&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" nada="Deportes" group-title="Lista 01", TigoSports Bolivia
-http://bgapp.live/play/14-400.php?c=764&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" nada="Deportes" group-title="Lista 01", TigoSports Paraguay
-http://bgapp.live/play/14-400.php?c=843&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" nada="Infantiles" group-title="Lista 01", Tiin
-http://bgapp.live/play/14-400.php?c=93&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" nada="Entretenimiento" group-title="Lista 01", TLC
-http://bgapp.live/play/14-400.php?c=87&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" nada="Entretenimiento" group-title="Lista 01", Tlnovelas
-http://bgapp.live/play/14-400.php?c=94&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" nada="HD" group-title="Lista 01", Tlnovelas
-http://bgapp.live/play/14-400.php?c=832&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="Peliculas" group-title="Lista 01", TNT
-http://bgapp.live/play/14-400.php?c=179&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="Peliculas" group-title="Lista 01", TNT Sur
-http://bgapp.live/play/14-400.php?c=752&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="España" group-title="Lista 01", TNT (ES)
-http://bgapp.live/play/14-400.php?c=716&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="HD" group-title="Lista 01", TNT
-http://bgapp.live/play/14-400.php?c=500&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" nada="Entretenimiento" group-title="Lista 01", TNT Series
-http://bgapp.live/play/14-400.php?c=90&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" nada="Entretenimiento" group-title="Lista 01", TNT Series Sur
-http://bgapp.live/play/14-400.php?c=757&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" nada="HD" group-title="Lista 01", TNT Series
-http://bgapp.live/play/14-400.php?c=650&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" nada="Deportes" group-title="Lista 01", TNT Sports
-http://bgapp.live/play/14-400.php?c=509&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" nada="24/7" group-title="Lista 01", Tom y Jerry 24/7
-http://bgapp.live/play/14-400.php?c=421&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" nada="Infantiles" group-title="Lista 01", Tooncast
-http://bgapp.live/play/14-400.php?c=95&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" nada="Colombia" group-title="Lista 01", Trece
-http://bgapp.live/play/14-400.php?c=774&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" nada="24/7" group-title="Lista 01", TrollHunters 24/7
-http://bgapp.live/play/14-400.php?c=662&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" nada="Entretenimiento" group-title="Lista 01", TruTV
-http://bgapp.live/play/14-400.php?c=96&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" nada="HD" group-title="Lista 01", TruTv
-http://bgapp.live/play/14-400.php?c=501&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png" nada="Musica" group-title="Lista 01", Tu Musica
-http://bgapp.live/play/14-400.php?c=516&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="Deportes" group-title="Lista 01", TUDN
-http://bgapp.live/play/14-400.php?c=698&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="Deportes" group-title="Lista 01", TUDN (Pocos Datos)
-http://bgapp.live/play/14-400.php?c=822&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="HD" group-title="Lista 01", TUDN
-http://bgapp.live/play/14-400.php?c=801&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="Deportes" group-title="Lista 01", TUDN USA
-http://bgapp.live/play/14-400.php?c=86&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="HD" group-title="Lista 01", TUDN USA
-http://bgapp.live/play/14-400.php?c=821&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" nada="Deportes" group-title="Lista 01", TVC Deportes
-http://bgapp.live/play/14-400.php?c=837&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" nada="España" group-title="Lista 01", TVE
-http://bgapp.live/play/14-400.php?c=195&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" nada="24/7" group-title="Lista 01", Two And a Half Men 24/7
-http://bgapp.live/play/14-400.php?c=675&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" nada="Deportes" group-title="Lista 01", Tyc Sports
-http://bgapp.live/play/14-400.php?c=274&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" nada="Deportes" group-title="Lista 01", UFC Network
-http://bgapp.live/play/14-400.php?c=97&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" nada="Entretenimiento" group-title="Lista 01", Unicable
-http://bgapp.live/play/14-400.php?c=98&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" nada="HD" group-title="Lista 01", Unicable
-http://bgapp.live/play/14-400.php?c=653&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" nada="Peliculas" group-title="Lista 01", Universal
-http://bgapp.live/play/14-400.php?c=137&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" nada="HD" group-title="Lista 01", Universal
-http://bgapp.live/play/14-400.php?c=502&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" nada="Entretenimiento" group-title="Lista 01", Univision
-http://bgapp.live/play/14-400.php?c=99&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" nada="Deportes" group-title="Lista 01", Univisión Deportes
-http://bgapp.live/play/14-400.php?c=373&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Deportes" group-title="Lista 01", Univisión TDN
-http://bgapp.live/play/14-400.php?c=100&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Entretenimiento" group-title="Lista 01", Univision Tlnovelas
-http://bgapp.live/play/14-400.php?c=413&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Colombia" group-title="Lista 01", Uno
-http://bgapp.live/play/14-400.php?c=775&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" nada="Musica" group-title="Lista 01", VH1
-http://bgapp.live/play/14-400.php?c=101&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" nada="HD" group-title="Lista 01", VH1
-http://bgapp.live/play/14-400.php?c=632&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" nada="Musica" group-title="Lista 01", Video Rola
-http://bgapp.live/play/14-400.php?c=359&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Videos: 1Music
-http://bgapp.live/play/14-400.php?c=433&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Videos: Company Radio TV
-http://bgapp.live/play/14-400.php?c=435&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Videos: Dream TV
-http://bgapp.live/play/14-400.php?c=439&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Virgin TV
-http://bgapp.live/play/14-400.php?c=315&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" nada="Uruguay" group-title="Lista 01", VTV Uruaguay
-http://bgapp.live/play/14-400.php?c=708&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" nada="Chile" group-title="Lista 01", VTV2 Chile
-http://bgapp.live/play/14-400.php?c=321&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" nada="Puerto Rico" group-title="Lista 01", Wapa PR
-http://bgapp.live/play/14-400.php?c=327&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="Entretenimiento" group-title="Lista 01", Warner Channel
-http://bgapp.live/play/14-400.php?c=102&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="Entretenimiento" group-title="Lista 01", Warner Channel Sur
-http://bgapp.live/play/14-400.php?c=759&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="HD" group-title="Lista 01", Warner Channel
-http://bgapp.live/play/14-400.php?c=503&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" nada="Deportes" group-title="Lista 01", Win Sports
-http://bgapp.live/play/14-400.php?c=292&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" nada="HD" group-title="Lista 01", Win Sports +
-http://bgapp.live/play/14-400.php?c=881&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" nada="HD" group-title="Lista 01", Win Sports +
-http://bgapp.live/play/14-400.php?c=802&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" nada="HD" group-title="Lista 01", Win Sports
-http://bgapp.live/play/14-400.php?c=754&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" nada="Deportes" group-title="Lista 01", WWE Network
-http://bgapp.live/play/14-400.php?c=276&g=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" nada="24/7" group-title="Lista 01", Yu-Gi-Oh! 24/7
-http://bgapp.live/play/14-400.php?c=664&g=.m3u8
+***TP_SD***
+#EXTM3U
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png",CANAL TOTALPLAY
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1973&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png",IMAGEN TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2298&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png",AZTECA UNO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=7&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png",AZTECA 7
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=317&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92197_dark_360w_270h.png",AZ CLIC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=11&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61404_dark_360w_270h.png",AZ CORAZON
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=70&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79968_dark_360w_270h.png",AZ MUNDO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=84&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png",LAS ESTRELLAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2362&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28440_dark_360w_270h.png",TELEVISA PUEBLA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2312&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png",CANAL 4
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png",CANAL 5
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2218&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png",CANAL 8 (Televisa Monterrey)
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2307&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59528_dark_360w_270h.png",NU9VE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=24&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116166_dark_360w_270h.png",ONCE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=25&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116169_dark_360w_270h.png",TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28440_dark_360w_270h.png",MEXIQUENSE TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=44&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34344_dark_360w_270h.png",TELEFORMULA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=32&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91505_dark_360w_270h.png",MULTIMEDIOS MTY
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2305&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91505_dark_360w_270h.png",MULTIMEDIOS CDMX
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1253&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s45710_dark_360w_270h.png",APRENDE TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=401&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16292_dark_360w_270h.png",TVC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2156&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116157_dark_360w_270h.png",A+
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2348&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20548_dark_360w_270h.png",CANAL DEL CONGRESO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2331&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116229_dark_360w_270h.png",JALISCO TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png",TV CUATRO
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online-218x150.png",TV CUATRO.2
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online-218x150.png",TV CUATRO.3
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s39719_dark_360w_270h.png",Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12034_dark_360w_270h.png",MariaVision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s47620_dark_360w_270h.png",TELESUR COSTA RICA HD
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="https://radio.streamitter.com/images/logos/GVZLHL.png?time=1624834168",FrecuenciaMusical
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w195475910.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp",RetroPlus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp",RetroPlus Música
+https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp",RetroPlus Series
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p2.png",ANTENA 7- RD
+http://190.92.95.37:8000/play/a0p2/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o0.png",CANAL 10 - ESA
+http://190.92.95.37:8000/play/a0o0/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o8.png",CANAL 10 HD - ESA
+http://190.92.95.37:8000/play/a0o8/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qj.png",CANAL 11 - GUA
+http://190.92.95.37:8000/play/a0qj/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r0.png",CANAL 11 REPRETEL
+http://190.92.95.37:8000/play/a0r0/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ql.png",CANAL 12 - ESA
+http://190.92.95.37:8000/play/a0ql/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qt.png",CANAL 13 - NI
+http://190.92.95.37:8000/play/a0qt/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p5.png",CANAL 13 - PAN
+http://190.92.95.37:8000/play/a0p5/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oh.png",CANAL 13 SINART
+http://190.92.95.37:8000/play/a0oh/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qi.png",CANAL 13-GUA
+http://190.92.95.37:8000/play/a0qi/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qo.png",CANAL 14 - NIC
+http://190.92.95.37:8000/play/a0qo/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r2.png",CANAL 19  ESA
+http://190.92.95.37:8000/play/a0r2/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ru.png",CANAL 2 - ESA
+http://190.92.95.37:8000/play/a0ru/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rx.png",CANAL 2 - NIC
+http://190.92.95.37:8000/play/a0rx/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p6.png",CANAL 2 - PAN
+http://190.92.95.37:8000/play/a0p6/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rs.png",CANAL 3 - GUA
+http://190.92.95.37:8000/play/a0rs/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rt.png",CANAL 4 - ESA
+http://190.92.95.37:8000/play/a0rt/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s2.png",CANAL 4 - REPRETEL
+http://190.92.95.37:8000/play/a0s2/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qk.png",CANAL 6 - ESA
+http://190.92.95.37:8000/play/a0qk/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qs.png",CANAL 6 - NI
+http://190.92.95.37:8000/play/a0qs/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qy.png",CANAL 6 REPRETEL
+http://190.92.95.37:8000/play/a0qy/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rr.png",CANAL 7 - GUA
+http://190.92.95.37:8000/play/a0rr/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qz.png",CANAL 7 TELETICA
+http://190.92.95.37:8000/play/a0qz/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rp.png",CANAL ANTIGUA - GUA
+http://190.92.95.37:8000/play/a0rp/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rq.png",CANAL AZTECA - GUA
+http://190.92.95.37:8000/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qq.png",CDN2- RD
+http://190.92.95.37:8000/play/a0qq/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s1.png",CDN37 - RD
+http://190.92.95.37:8000/play/a0s1/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s0.png",COLOR VISION 9 - RD
+http://190.92.95.37:8000/play/a0s0/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ok.png",DHE
+http://190.92.95.37:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qd.png",DHE HD
+http://190.92.95.37:8000/play/a0qd/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qp.png",DIGITAL 15 - RD
+http://190.92.95.37:8000/play/a0qp/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pw.png",EWTN
+http://190.92.95.37:8000/play/a0pw/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oi.png",EXTRA TV 42
+http://190.92.95.37:8000/play/a0oi/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0t3.png",FUTV HD CR
+http://190.92.95.37:8000/play/a0t3/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oz.png",GUATEVISION - GUA
+http://190.92.95.37:8000/play/a0oz/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qx.png",MASTV - PAN
+http://190.92.95.37:8000/play/a0qx/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qw.png",NEXT - PAN
+http://190.92.95.37:8000/play/a0qw/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0td.png",PASIONES HD
+http://190.92.95.37:8000/play/a0td/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o4.png",PXTV
+http://190.92.95.37:8000/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nq.png",RCN - GUA
+http://190.92.95.37:8000/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r5.png",RCN NOVELAS
+http://190.92.95.37:8000/play/a0r5/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rm.png",SEMBRADOR
+http://190.92.95.37:8000/play/a0rm/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pd.png",SEMILLITAS
+http://190.92.95.37:8000/play/a0pd/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nn.png",SERTV - PAN
+http://190.92.95.37:8000/play/a0nn/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r9.png",SUN CHANNEL
+http://190.92.95.37:8000/play/a0r9/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pv.png",TBN ENLACE
+http://190.92.95.37:8000/play/a0pv/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oa.png",TD+2 HD CR
+http://190.92.95.37:8000/play/a0oa/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o9.png",TD+HD CR
+http://190.92.95.37:8000/play/a0o9/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p1.png",TELE ANTILLAS - RD
+http://190.92.95.37:8000/play/a0p1/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qu.png",TELECENTRO - RD
+http://190.92.95.37:8000/play/a0qu/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rz.png",TELEMICRO - RD
+http://190.92.95.37:8000/play/a0rz/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p3.png",TELESISTEMA RD
+http://190.92.95.37:8000/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qr.png",TELEUNIVERSO - RD
+http://190.92.95.37:8000/play/a0qr/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0of.png",TELEVIDA RD
+http://190.92.95.37:8000/play/a0of/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sn.png",TIGO SPORTS HD
+http://190.92.95.37:8000/play/a0sn/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0no.png",TV ORIENTE ESA
+http://190.92.95.37:8000/play/a0no/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nw.png",TVCHILE
+http://190.92.95.37:8000/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o6.png",TVE
+http://190.92.95.37:8000/play/a0o6/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nr.png",TVM25 -  ESA
+http://190.92.95.37:8000/play/a0nr/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r1.png",VTV CANAL 35 ESA
+http://190.92.95.37:8000/play/a0r1/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nt.png",ZOOMOO
+http://190.92.95.37:8000/play/a0nt/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16288_dark_360w_270h.png",DE PELICULA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=335&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74016_dark_360w_270h.png",DE PELICULA +
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=121&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95687_dark_360w_270h.png",AZTECA CINEMA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1787&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46442_dark_360w_270h.png",FX
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=60&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106214_dark_360w_270h.png",PARAMOUNT CHANNEL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1726&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16794_dark_360w_270h.png",CINEMAX
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=158&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105609_dark_360w_270h.png",CINECANAL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=149&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s50709_dark_360w_270h.png",GOLDEN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=123&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68317_dark_360w_270h.png",GOLDEN +
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=122&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16423_dark_360w_270h.png",GOLDEN EDGE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=124&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19246_dark_360w_270h.png",TCM
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=128&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71727_dark_360w_270h.png",TNT
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=126&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29017_dark_360w_270h.png",STUDIO UNIVERSAL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=132&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90653_dark_360w_270h.png",AMC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=328&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75073_dark_360w_270h.png",TBS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=81&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68021_dark_360w_270h.png",SPACE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=129&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87687_dark_360w_270h.png",FILMS & ARTS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=137&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16574_dark_360w_270h.png",EUROPA CHANNEL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=136&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16497_dark_360w_270h.png",I-SAT
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=135&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107890_dark_360w_270h.png",MORBIDO TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=140&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75423_dark_360w_270h.png",STAR CHANNEL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=46&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s97571_dark_360w_270h.png",DISCOVERY H&H
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=96&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19385_dark_360w_270h.png",SONY
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=48&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16213_dark_360w_270h.png",WARNER
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=205&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53218_dark_360w_270h.png",UNIVERSAL CHANNEL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=57&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91993_dark_360w_270h.png",TNT SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=71&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102862_dark_360w_270h.png",TELEMUNDO INTERNACIONAL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=85&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16521_dark_360w_270h.png",UNICABLE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1499&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55980_dark_360w_270h.png",DISTRITO COMEDIA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=78&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37232_dark_360w_270h.png",TL NOVELAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=83&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10035_dark_360w_270h.png",A&E
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=62&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76326_dark_360w_270h.png",COMEDY CENTRAL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=340&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30259_dark_360w_270h.png",E!
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=55&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82970_dark_360w_270h.png",¡HOLA! TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=219&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61514_dark_360w_270h.png",GLITZ
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=76&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91919_dark_360w_270h.png",FoodNetwork
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2145&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89197_dark_360w_270h.png",LIFETIME
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=94&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17457_dark_360w_270h.png",MAS CHIC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1842&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16496_dark_360w_270h.png",TRUTV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=215&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56727_dark_360w_270h.png",SYFY
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=59&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90309_dark_360w_270h.png",ANTENA 3
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=199&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16800_dark_360w_270h.png",A3 SERIES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2113&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106724_dark_360w_270h.png",STAR TVE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2375&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25553_dark_360w_270h.png",EL GOURMET
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=74&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15798_dark_360w_270h.png",DISCOVERY CHANNEL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=86&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48527_dark_360w_270h.png",DISCOVERY SCIENCE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=98&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65342_dark_360w_270h.png",DISCOVERY ID
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2376&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65940_dark_360w_270h.png",DISCOVERY THEATER
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=95&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46608_dark_360w_270h.png",DISCOVERY TURBO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2379&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66488_dark_360w_270h.png",DISCOVERY WORLD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=101&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25068_dark_360w_270h.png",NAT GEO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=91&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s40137_dark_360w_270h.png",HISTORY
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=89&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18649_dark_360w_270h.png",ANIMAL PLANET
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2378&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73822_dark_360w_270h.png",TLC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2380&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://i.ibb.co/YLzBnMs/Garage-TV.png",GARAGE TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=75&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12712_dark_360w_270h.png",MTV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=212&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24214_dark_360w_270h.png",MTV HITS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=213&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66419_dark_360w_270h.png",MTV LIVE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=211&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56245_dark_360w_270h.png",MTV 00's
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=334&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65060_dark_360w_270h.png",MTV 80's
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=214&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34394_dark_360w_270h.png",TELEHIT MÚSICA
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=218&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73070_dark_360w_270h.png",TELEHIT +
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=220&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66345_dark_360w_270h.png",KPop (US)
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18101_dark_360w_270h.png",BANDAMAX
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=221&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32749_dark_360w_270h.png",TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png",CARTOON NETWORK
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=112&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63109_dark_360w_270h.png",TOONCAST
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=108&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26089_dark_360w_270h.png",CARTOONITO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=115&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16707_dark_360w_270h.png",NICK
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=331&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77783_dark_360w_270h.png",TEENNICK
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2147&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90209_dark_360w_270h.png",NICKMUSIC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1708&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60295_dark_360w_270h.png",NICK JR
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=117&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19234_dark_360w_270h.png",DISNEY CHANNEL
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=113&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60506_dark_360w_270h.png",DISNEY JR
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=118&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16680_dark_360w_270h.png",DISCOVERY KIDS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=109&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56036_dark_360w_270h.png",BABY FIRST
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1984&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56036_dark_360w_270h.png",BABY TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=116&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65129_dark_360w_270h.png",TUDN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=174&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72291_dark_360w_270h.png",Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72291_dark_360w_270h.png",Claro Sports
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2564&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34863_dark_360w_270h.png",AYM SPORTS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=180&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72625_dark_360w_270h.png",PXSports
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=950&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s57580_dark_360w_270h.png",TVC DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2157&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17725_dark_360w_270h.png",ESPN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=169&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s88735_dark_360w_270h.png",ESPN 2
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=168&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25595_dark_360w_270h.png",ESPN 3
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=345&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59307_dark_360w_270h.png",FOX SPORTS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=170&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71328_dark_360w_270h.png",FOX SPORTS 2
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=172&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s47374_dark_360w_270h.png",FOX SPORTS 3
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=178&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83162_dark_360w_270h.png",ADRENALINA SPORTS HD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2404&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61033_dark_360w_270h.png",GOLF
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=179&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61719_dark_360w_270h.png",MILENIO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1252&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66635_dark_360w_270h.png",FORO TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=700&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15384_dark_360w_270h.png",ADN 40
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=184&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82353_dark_360w_270h.png",EXCELSIOR TV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1449&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=185&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17054_dark_360w_270h.png",CNN Ñ
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=187&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110959_dark_360w_270h.png",FOX NEWS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=188&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87311_dark_360w_270h.png",BLOOMBERG
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=190&f=HLS&f=.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Adult-Swim-Logo.png",AdultSwim
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/eQYzog8.png",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/slawVDH.png",Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/sLEHqIC.png",Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/sLEHqIC.png",Daily Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/le0DGBd.png",Dream Corp LLC
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/zlPbOI0.png",Home Movies
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/sLEHqIC.png",Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/Gu7x3QD.png",Last Stream on the Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/rYIysEl.png",Metalocalypse
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/aShyuut.png",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/sLEHqIC.png",Off the Air/Smalls
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/sLEHqIC.png",Relaxing Fish
+https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/7bZnIJ0.png",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/ZUg5vhn.png",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/nxvtBCD.jpg",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/zSs1e5z.png",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/K3nLFU9.png",Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/GBlHt4r.png",The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/kru210h.png",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/9lsXliT.png",Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/64uOrnR.png",Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/v9HBW7B.jpg",Your Pretty Face Is Going to Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
 
 
