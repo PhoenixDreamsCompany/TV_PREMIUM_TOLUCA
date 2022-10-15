@@ -437,3 +437,5 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 group-title="adultswim.com" tvg-logo="https://i.imgur.com/v9HBW7B.jpg",Your Pretty Face Is Going to Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+#EXTINF:-1, FOX HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
