@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png",CANAL TOTALPLAY
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1973&f=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png",IMAGEN TV
@@ -468,58 +467,6 @@ https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
-
-
-**NUEVOS**
-
-
-#EXTINF:-1, Logos TV
-http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
-
-#EXTINF:-1, Tevex
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-
-#EXTINF:-1, Tierra Mía
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-#EXTINF:-1, Tlaxcala Televisión
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
-
-#EXTINF:-1, TN 23
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
-
-#EXTINF:-1, El Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-
-#EXTINF:-1, Tastemade en Español
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, TCS HD
-https://secure-video.tcsgo.com/tcshd/index.m3u8
-
-#EXTINF:-1, Cultura 24 TV
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
-#EXTINF:-1, San Isidro TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-
-#EXTINF:-1, Canal IPE
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1, Chinola TV
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
-
-#EXTINF:-1, Top Cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1, Ten TV
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
-
-#EXTINF:-1, Cine Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1, MyTime Movie Network
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 
 
