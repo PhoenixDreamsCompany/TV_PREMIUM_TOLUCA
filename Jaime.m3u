@@ -117,18 +117,7 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 
 MUSICALES
-#EXTINF:-1 group-title="MUSICALES",CLASSIC ARTS SHOWCASE
-https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
-#EXTINF:-1 group-title="MUSICALES",CANAL DE MÚSICA DE CALIFORNIA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 group-title="MUSICALES",KRONEHIT AUSTRIA
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="MUSICALES",RETRO PLUS TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="MUSICALES",RECUERDOS RETRO RADIO TV
-https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICALES",KPOPTV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://th.bing.com/th/id/OIP.f6nJ0-WnbNwfuHOz_3NtrgHaHa?w=154&h=180&c=7&o=5&dpr=1.1&pid=1.7",PROFOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdR-nqXgHUJbzZ4zFYcoX3kJ_yzf3rRAiXAMWwMCXwOMm4eD6YxtpkqqN4_SkszDGMsA&usqp=CAU",REWIND
@@ -190,8 +179,7 @@ https://sdn-global-streaming-cache-3qsdn.akamaized.net/9378/files/19/05/1188496/
 
 
 MÉXICO
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/h8Fv80L.png",TVMAS
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png",Azteca Uno Web
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png",Azteca America San Diego SD
