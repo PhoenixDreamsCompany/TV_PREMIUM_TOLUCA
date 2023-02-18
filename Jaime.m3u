@@ -190,16 +190,6 @@ https://sdn-global-streaming-cache-3qsdn.akamaized.net/9378/files/19/05/1188496/
 
 
 MÉXICO
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg",Alcarria TV
-http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/3vv7aoM.jpg",Canal 10
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/NefH5qZ.png",RCG 2 Saltillo
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/NefH5qZ.png",RCG 3 Saltillo
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/x9jcMwu.png",RTQ Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/h8Fv80L.png",TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/498970-8c.png",Azteca Uno Web
