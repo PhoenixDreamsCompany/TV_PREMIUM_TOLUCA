@@ -1,6 +1,21 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/El_piloto-759873939-large.jpg", El Piloto | Phoenix'DreamsTV
+https://ia801609.us.archive.org/20/items/3-l-p-1l-0-t-0/3L_P1l0-t0.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Creed_III-358416025-large.jpg", CREED III | Phoenix'DreamsTV
+https://ia801605.us.archive.org/2/items/cr-3-3d/Cr3_3d%20%21%21%21.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Malcriados-327749313-large.jpg", Malcriados | Phoenix'DreamsTV
+https://ia801603.us.archive.org/33/items/m-4l-c-r-14-2/M4l-c_r14-2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/41290-484378-20221226031534.jpg", Llaman a la Puerta | Phoenix'DreamsTV
+https://ia801605.us.archive.org/15/items/114-m-4-n-4.14-pu-3/114-m4N-4.14_pu3.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/chernobil-la-pelicula/poster_originalsize_250X375.jpg", Chernóbil: La Película | Phoenix'DreamsTV
+https://ia802601.us.archive.org/3/items/ch-3rn-0/Ch3rn_0.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Huesera-823576509-large.jpg", HUESERA | Phoenix'DreamsTV
 https://ia904706.us.archive.org/0/items/hu-3-53.r-4/Hu3_53.r4.mp4
 
