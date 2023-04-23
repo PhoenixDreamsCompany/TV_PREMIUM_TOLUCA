@@ -1,6 +1,19 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures-latam.com/tl_files/content/movies/super_mario_bros/posters/02.jpg", Super Mario Bros | Phoenix'DreamsTV
+https://ia802603.us.archive.org/14/items/t-m-4r-10.-br-05/T_M4r10.Br05.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Un_vecino_gru_n-127395772-large.jpg", Vecino Gruñon | Phoenix'DreamsTV
+https://ia804707.us.archive.org/21/items/1-v-3c-1n-0-gru-n-0n/1_v3c1n0-gruN%CC%830n.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/13/12/43/446246.jpg", Sicario 1 | Phoenix'DreamsTV
+https://ia601606.us.archive.org/15/items/51c-4-r-10-1/51c4-r10_1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNjM2NTYxMjReQTJeQWpwZ15BbWU4MDU2NzAxNTUz._V1_FMjpg_UX1000_.jpg", Sicario 2 | Phoenix'DreamsTV
+https://ia601606.us.archive.org/29/items/51c-4-r-10-2/51c4-r10_2.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/El_piloto-759873939-large.jpg", El Piloto | Phoenix'DreamsTV
 https://ia801609.us.archive.org/20/items/3-l-p-1l-0-t-0/3L_P1l0-t0.mp4
 
