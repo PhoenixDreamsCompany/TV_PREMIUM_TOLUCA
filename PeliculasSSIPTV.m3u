@@ -1,5 +1,31 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.unionguanajuato.mx/wp-content/uploads/2023/04/cuando-sale-guardianes-de-la-galaxia-3-mexico-1024x576.jpg", Guardianes de la Galaxia 3 | Phoenix'DreamsTV
+https://ia802602.us.archive.org/3/items/gu-4rd-14n-5.0f/Gu4rd14n5.0f.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.passline.com/imagenes/eventos/rapidos-y-furiosos-10-fast-x-doblada-jueves-25-a-las-1620-hrs-177739-img.jpg", Rápidos y Furiosos X | Phoenix'DreamsTV
+https://ia902609.us.archive.org/32/items/f4st.x/f4st.x.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/23/04/25/10/07/3386659.jpg", Los Caballeros del Zodiaco | Phoenix'DreamsTV
+https://ia802601.us.archive.org/18/items/l-05-c-4b-4-d-3l-z-0d/L05%20C4b4%20D3l%20Z0d.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.reporteindigo.com/wp-content/uploads/2023/03/JohnWick4_01-523x660.jpg", John Wick 4 | Phoenix'DreamsTV
+https://ia902606.us.archive.org/7/items/j-0.hn-w-1ck-4/J0.hn_W1ck-4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Posesiaon_infernal_El_despertar-438707144-large.jpg", Posesión Infernal: El despertar  | Phoenix'DreamsTV
+https://ia801608.us.archive.org/6/items/3v-1l-d-34d/3v1l%20D34d.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-8011236641680716085.jpg", El Exorcista del Papa | Phoenix'DreamsTV
+https://ia801603.us.archive.org/10/items/3l-3x-0rc-1st-4-d-3l-p-4-p-4/3l_3x0rc1st4-d3l_p4P4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/13/17/25/1165016.jpg", Los Busca Mundos | Phoenix'DreamsTV
+https://ia902603.us.archive.org/24/items/l-05-bu-5c-4-mund-05/L05%20bu5c4%20Mund05.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/41893-170733-20230303025123.jpg", RENFIELD | Phoenix'DreamsTV
+https://ia902600.us.archive.org/3/items/r-3nf-13ld/R3nf13ld.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/41652-368087-20230207021113.jpg", 65 Al Borde De La Extinción | Phoenix'DreamsTV
 https://ia801606.us.archive.org/29/items/654lb-0rd-3/654lb-0rd3.mp4
 
