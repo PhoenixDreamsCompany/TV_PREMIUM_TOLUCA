@@ -1,11 +1,29 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://los40mx00.epimg.net/especiales/depelicula/mision-de-rescate-2/img/poster.png", Misión Rescate 2 | Phoenix'DreamsT
+https://ia902600.us.archive.org/8/items/m1510n_r35-2/m1510n_r35-2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/42397-115926-20230607092048.jpg", Transformers: El Despertar de las Bestias | Phoenix'DreamsT
+https://ia902608.us.archive.org/35/items/tr4n5-f0rm3-r5/tr4n5-f0rm3-r5.mp4
+
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/12/30/19/48/4953659.jpg", Flamin´ Hot | Phoenix'DreamsT
+https://ia902602.us.archive.org/12/items/fl4m1n.h0t/fl4m1n.h0t.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://decine21.com/img/upload/obras/lobo-vikingo-46653/lobo-vikingo-46653-c.jpg", Lobo Vikingo | Phoenix'DreamsTV
+https://ia801606.us.archive.org/13/items/l-0-b-0v-1k-1/L0_b0v-1k1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/12/30/19/48/4953659.jpg", La Ballena | Phoenix'DreamsTV
+https://ia902604.us.archive.org/20/items/b4_ll3.n4/b4_ll3.n4.mp4
+
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.unionguanajuato.mx/wp-content/uploads/2023/04/cuando-sale-guardianes-de-la-galaxia-3-mexico-1024x576.jpg", Guardianes de la Galaxia 3 | Phoenix'DreamsTV
 https://ia802602.us.archive.org/3/items/gu-4rd-14n-5.0f/Gu4rd14n5.0f.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.passline.com/imagenes/eventos/rapidos-y-furiosos-10-fast-x-doblada-jueves-25-a-las-1620-hrs-177739-img.jpg", Rápidos y Furiosos X | Phoenix'DreamsTV
-https://ia902609.us.archive.org/32/items/f4st.x/f4st.x.mp4
+https://ia802609.us.archive.org/32/items/f4st.x/F45_tX.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/23/04/25/10/07/3386659.jpg", Los Caballeros del Zodiaco | Phoenix'DreamsTV
 https://ia802601.us.archive.org/18/items/l-05-c-4b-4-d-3l-z-0d/L05%20C4b4%20D3l%20Z0d.mp4
