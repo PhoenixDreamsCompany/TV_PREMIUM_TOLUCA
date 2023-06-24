@@ -1,14 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://los40mx00.epimg.net/especiales/depelicula/mision-de-rescate-2/img/poster.png", Misión Rescate 2 | Phoenix'DreamsT
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://los40mx00.epimg.net/especiales/depelicula/mision-de-rescate-2/img/poster.png", Misión Rescate 2 | Phoenix'DreamsTV
 https://ia902600.us.archive.org/8/items/m1510n_r35-2/m1510n_r35-2.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/42397-115926-20230607092048.jpg", Transformers: El Despertar de las Bestias | Phoenix'DreamsT
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/42397-115926-20230607092048.jpg", Transformers: El Despertar de las Bestias | Phoenix'DreamsTV
 https://ia902608.us.archive.org/35/items/tr4n5-f0rm3-r5/tr4n5-f0rm3-r5.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/My_Little_Pony_A_New_Generation_film_poster.jpg", My Little Pony: Una Nueva Generación | Phoenix'DreamsTV
 https://ia902702.us.archive.org/7/items/my-l-1-ttl-3-p-0ny/My%20l1-ttl3_p0ny%20.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Interstellar-366875261-large.jpg", Interestellar | Phoenix'DreamsTV
+https://ia902705.us.archive.org/22/items/1nt-3-r-35-t-3-l-4r/1nt3-r35_t3L4r.mp4
 
 
 
