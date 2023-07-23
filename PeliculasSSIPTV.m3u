@@ -1,5 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Insidious_the_red_door.png", Insidious: La Puerta Roja | Phoenix'DreamsTV
+https://ia902604.us.archive.org/29/items/1n-5-1di-0-us-5/1n5_1di0-us%205.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/23/03/28/12/53/0991282.jpg", SISU | Phoenix'DreamsTV
+https://ia802700.us.archive.org/5/items/s1_5U/s1_5U.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/16/12/54/0504030.jpg", El-Gato-con-Botas-1.jpg", El Gato con Botas: El último deseo | Phoenix'DreamsTV
+https://ia802703.us.archive.org/3/items/c-4t-b-0t-2/C4t_B0t-2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/42305-115953-20230531033258.jpg", Spider-Man: A Través del Spider-Verso | Phoenix'DreamsTV
+https://ia902701.us.archive.org/14/items/5p-1d-3r-m-4n/5p1d3r_m4n.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.classificationoffice.govt.nz/media/images/Hypnotic.width-700.jpg", Hypnotic | Phoenix'DreamsTV
+https://ia902700.us.archive.org/31/items/hyp-n-0-t-1c/Hyp_n0-t1c.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Flash-205686824-large.jpg", The Flash | Phoenix'DreamsTV
+https://ia902603.us.archive.org/23/items/th3_fL4-5h/th3_fL4-5h.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://los40mx00.epimg.net/especiales/depelicula/mision-de-rescate-2/img/poster.png", Misión Rescate 2 | Phoenix'DreamsTV
 https://ia902600.us.archive.org/8/items/m1510n_r35-2/m1510n_r35-2.mp4
