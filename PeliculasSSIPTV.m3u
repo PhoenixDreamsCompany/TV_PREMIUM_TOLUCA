@@ -1,5 +1,40 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/42650-169278-20230602013018.jpg", Megalodón 2 | Phoenix'DreamsTV
+https://ia800506.us.archive.org/16/items/m3g.2/m3g.2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-902615661-large.jpg", Misión Imposible: Sentencia Mortal Parte 1 | Phoenix'DreamsTV
+https://ia800507.us.archive.org/18/items/m-1mp-051bl-3-1/M_1mp051bl3-1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w300/ktAzb7Ygf3hwq84tOWXL8ox832k.jpg", LEGO Disney Princess: Misión castillo | Phoenix'DreamsTV
+https://ia800507.us.archive.org/8/items/l-3g-0-pr-1n-55/L3g0_pr1n55.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Warhorse_One-314432323-large.jpg", Warhorse One | Phoenix'DreamsTV
+https://ia600506.us.archive.org/33/items/w4rh0rs3_0n3/w4rh0rs3_0n3.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Capitaan_Phillips-273270973-large.jpg", Capitán Phillips | Phoenix'DreamsTV
+https://ia902700.us.archive.org/13/items/c-4p-ph-1ll-1p-5/C4p_%20Ph1ll1p5%20.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://vreg.com/wp-content/uploads/2023/06/Screenshot-2023-06-14-at-2.54.16-PM.png", Murder City | Phoenix'DreamsTV
+https://ia600506.us.archive.org/33/items/murd3r.c1ty/murd3r.c1ty.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/11500/11597/028_m.jpg", Barbie | Phoenix'DreamsTV
+https://ia800507.us.archive.org/28/items/b-4r-b-13/B4-rb1_3.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/41816-371949-20230505020537.jpg", Elementos | Phoenix'DreamsTV
+https://ia802704.us.archive.org/6/items/kr-4k-51r-3n-45/3l3m3nt4L.ia.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.findelahistoria.com/web/wp-content/uploads/2013/09/20130919-004704.jpg", Empair State | Phoenix'DreamsTV
+https://ia802703.us.archive.org/16/items/3mp-1r-3-5t-4t-3/3mp1r3%205t4t3.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_67215a3e.jpeg", Indiana Jones | Phoenix'DreamsTV
+https://ia802700.us.archive.org/5/items/1ndi-4n-4/1ndi_4n4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/23/05/30/14/43/4339481.jpg", Sound of Freedom | Phoenix'DreamsTV
+https://ia802702.us.archive.org/24/items/50und-fr-3/50und-fr3.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Insidious_the_red_door.png", Insidious: La Puerta Roja | Phoenix'DreamsTV
 https://ia902604.us.archive.org/29/items/1n-5-1di-0-us-5/1n5_1di0-us%205.mp4
 
@@ -17,6 +52,8 @@ https://ia902700.us.archive.org/31/items/hyp-n-0-t-1c/Hyp_n0-t1c.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Flash-205686824-large.jpg", The Flash | Phoenix'DreamsTV
 https://ia902603.us.archive.org/23/items/th3_fL4-5h/th3_fL4-5h.mp4
+
+
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://los40mx00.epimg.net/especiales/depelicula/mision-de-rescate-2/img/poster.png", Misión Rescate 2 | Phoenix'DreamsTV
 https://ia902600.us.archive.org/8/items/m1510n_r35-2/m1510n_r35-2.mp4
@@ -40,7 +77,6 @@ https://ia801606.us.archive.org/13/items/l-0-b-0v-1k-1/L0_b0v-1k1.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/12/30/19/48/4953659.jpg", La Ballena | Phoenix'DreamsTV
 https://ia902604.us.archive.org/20/items/b4_ll3.n4/b4_ll3.n4.mp4
-
 
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.unionguanajuato.mx/wp-content/uploads/2023/04/cuando-sale-guardianes-de-la-galaxia-3-mexico-1024x576.jpg", Guardianes de la Galaxia 3 | Phoenix'DreamsTV
@@ -123,6 +159,15 @@ https://ia804704.us.archive.org/11/items/v-0-l-4-c-4e-r-c-2/V0L-4-%20c4eR_C2.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Volver_a_caer_Serie_de_TV-611480134-large.jpg", Volver a Caer: EP.3 Una nueva vida | Phoenix'DreamsTV
 https://ia804704.us.archive.org/28/items/v-0-l-4-c-4e-r-c-3/V0L-4-%20c4eR_C3.mp4
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Volver_a_caer_Serie_de_TV-611480134-large.jpg", Volver a Caer: EP.4 Lo que está por venir | Phoenix'DreamsTV
+https://ia601605.us.archive.org/7/items/v-0-l-4-c-4e-r-c-4/V%200%20L%204%20C%204e%20R%20C%204.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Volver_a_caer_Serie_de_TV-611480134-large.jpg", Volver a Caer: EP.5 Pide un deseo | Phoenix'DreamsTV
+https://ia804703.us.archive.org/19/items/v-0-l-4-c-4e-r-c-5/V%200%20L%204%20C%204e%20R%20C%205.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Volver_a_caer_Serie_de_TV-611480134-large.jpg", Volver a Caer: EP.6 El final del viaje | Phoenix'DreamsTV
+https://ia802606.us.archive.org/28/items/v-0-l-4-c-4e-r-c-6/V%200%20L%204%20C%204e%20R%20C%206.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Edge_of_Darkness_the_Movie_poster.jpg", Edge Of Darkness | Phoenix'DreamsTV
 https://ia801601.us.archive.org/21/items/3dg-3-0f-d-4rkn-355/3dg3_0f_d4rkn355.mp4
 
@@ -136,7 +181,7 @@ https://ia804706.us.archive.org/13/items/b0d_45-pl0M0/b0d_45-pl0M0.mp4
 https://ia804700.us.archive.org/13/items/m_1r4-m3/m_1r4-m3.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cine.com/media/noticias/2022/05/202205011661023.jpg", AVATAR 2 | Phoenix'DreamsTV
-https://ia804706.us.archive.org/27/items/4v-a-t-4-r/4v_aT4-r.mp4
+https://ia904706.us.archive.org/27/items/4v-a-t-4-r/4v.v4_t4r.MP4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/M3GAN-771464242-large.jpg", MEGAN | Phoenix'DreamsTV
 https://ia804704.us.archive.org/29/items/m-3-g-4-n/M_3G-4N.mp4
@@ -263,7 +308,7 @@ https://ia601505.us.archive.org/28/items/l-1-y-3.4-r/L1_y3.4R.mp4
 
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://rechismes.com/wp-content/uploads/2022/02/Jurassic-World-Dominio-1.jpg", Jurassic World: Dominion | Phoenix'DreamsTV
-http://regioplay.xyz/228022/JurassicWorldDominio.mkv
+https://ia601504.us.archive.org/29/items/jur-4551c-w-0r-1d/Jur4_ss1c%20W0.r1d.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Hopper_el_polloliebre-899342736-large.jpg", Chickenhare | Phoenix'DreamsTV
 https://ia601407.us.archive.org/17/items/ch-1-ck-3-nh-4r-3/Ch1_ck3%20nh4r3.mp4
@@ -440,3 +485,4 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | Phoenix´DreamsTV  
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
